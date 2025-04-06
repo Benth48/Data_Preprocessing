@@ -1,0 +1,501 @@
+Name,Age,Salary,Department,Joined_Date,Performance
+Employee_v4_001,,forty thousand,Pharmacy,2018-06-26,Good
+Employee_v4_002,40.0,,Billing,2023-05-12,Good
+Employee_v4_003,45.0,7691413,Billing,2024-06-09,Good
+Employee_v4_004,,,Pharmacy,2018-12-11,Good
+Employee_v4_005,,forty thousand,Pharmacy,2021-01-24,Good
+Employee_v4_006,42.0,sixty-five hundred thousand,Billing,2019-11-06,Poor
+Employee_v4_007,31.0,forty thousand,Pharmacy,2022-12-27,Good
+Employee_v4_008,,forty thousand,Administration,2018-12-28,Good
+Employee_v4_009,,,Medical,2019-09-01,Good
+Employee_v4_010,43.0,,Medical,2016-02-28,Good
+Employee_v4_011,38.0,7625042,Pharmacy,2018-04-21,Good
+Employee_v4_012,44.0,7234508,Pharmacy,2020-06-13,Good
+Employee_v4_013,25.0,6505921,Medical,2024-01-29,Poor
+Employee_v4_014,,,Billing,2017-03-10,Good
+Employee_v4_015,,8859446,Billing,2020-01-25,Poor
+Employee_v4_016,,8539880,Administration,2018-04-28,Good
+Employee_v4_017,,sixty-five hundred thousand,Pharmacy,2024-11-21,Good
+Employee_v4_018,32.0,,Medical,2023-04-15,Poor
+Employee_v4_019,,,Pharmacy,2019-01-06,Good
+Employee_v4_020,30.0,,Medical,2023-02-09,Good
+Employee_v4_021,28.0,,Administration,2015-07-20,Poor
+Employee_v4_022,,,Administration,2021-11-12,Good
+Employee_v4_023,36.0,4157344,Billing,2018-10-21,Good
+Employee_v4_024,34.0,,Billing,2023-10-06,Poor
+Employee_v4_025,43.0,forty thousand,Pharmacy,2023-10-19,Poor
+Employee_v4_026,43.0,7261846,Medical,2016-03-07,Poor
+Employee_v4_027,42.0,forty thousand,Billing,2017-05-23,Good
+Employee_v4_028,,forty thousand,Medical,2017-06-17,Poor
+Employee_v4_029,35.0,sixty-five hundred thousand,Billing,2017-11-28,Good
+Employee_v4_030,,6207616,Administration,2022-12-17,Good
+Employee_v4_031,,7841724,Pharmacy,2018-11-01,Poor
+Employee_v4_032,,4526015,Pharmacy,2017-09-04,Poor
+Employee_v4_033,,7548390,Billing,2016-05-31,Good
+Employee_v4_034,,7331704,Administration,2021-08-03,Good
+Employee_v4_035,32.0,forty thousand,Pharmacy,2023-01-03,Poor
+Employee_v4_036,24.0,sixty-five hundred thousand,Medical,2022-12-10,Poor
+Employee_v4_037,38.0,,Billing,2019-09-08,Poor
+Employee_v4_038,,sixty-five hundred thousand,Administration,2018-09-11,Good
+Employee_v4_039,45.0,sixty-five hundred thousand,Pharmacy,2017-10-15,Poor
+Employee_v4_040,,7574917,Pharmacy,2022-02-06,Good
+Employee_v4_041,39.0,,Billing,2015-02-20,Good
+Employee_v4_042,,,Medical,2016-06-29,Poor
+Employee_v4_043,40.0,4791966,Pharmacy,2017-12-02,Poor
+Employee_v4_044,44.0,7516130,Medical,2017-11-18,Good
+Employee_v4_045,36.0,5425207,Pharmacy,2023-02-26,Good
+Employee_v4_046,,8035628,Medical,2024-06-19,Poor
+Employee_v4_047,32.0,8003220,Billing,2018-08-03,Poor
+Employee_v4_048,42.0,sixty-five hundred thousand,Pharmacy,2019-08-12,Good
+Employee_v4_049,,sixty-five hundred thousand,Medical,2021-01-28,Poor
+Employee_v4_050,,5910033,Pharmacy,2016-11-17,Good
+Employee_v4_051,,forty thousand,Pharmacy,2023-03-12,Good
+Employee_v4_052,43.0,forty thousand,Pharmacy,2023-11-13,Good
+Employee_v4_053,,sixty-five hundred thousand,Administration,2024-02-12,Poor
+Employee_v4_054,45.0,,Billing,2021-11-11,Good
+Employee_v4_055,44.0,forty thousand,Medical,2021-04-28,Poor
+Employee_v4_056,44.0,forty thousand,Billing,2024-12-08,Good
+Employee_v4_057,,,Pharmacy,2023-07-05,Poor
+Employee_v4_058,,,Administration,2022-12-15,Poor
+Employee_v4_059,,,Medical,2018-06-16,Good
+Employee_v4_060,,,Billing,2023-12-01,Poor
+Employee_v4_061,25.0,forty thousand,Administration,2016-05-16,Poor
+Employee_v4_062,,forty thousand,Billing,2017-01-08,Good
+Employee_v4_063,,4553643,Administration,2021-03-14,Good
+Employee_v4_064,,forty thousand,Billing,2017-09-18,Good
+Employee_v4_065,,sixty-five hundred thousand,Medical,2015-09-17,Good
+Employee_v4_066,,,Medical,2017-07-10,Poor
+Employee_v4_067,32.0,sixty-five hundred thousand,Administration,2017-06-22,Good
+Employee_v4_068,35.0,forty thousand,Billing,2020-09-11,Poor
+Employee_v4_069,45.0,4196687,Administration,2022-03-08,Good
+Employee_v4_070,32.0,forty thousand,Medical,2017-04-26,Good
+Employee_v4_071,,sixty-five hundred thousand,Administration,2021-07-10,Poor
+Employee_v4_072,,,Administration,2023-05-20,Poor
+Employee_v4_073,,sixty-five hundred thousand,Billing,2019-06-17,Poor
+Employee_v4_074,,forty thousand,Administration,2020-01-19,Poor
+Employee_v4_075,30.0,sixty-five hundred thousand,Administration,2022-02-05,Poor
+Employee_v4_076,29.0,sixty-five hundred thousand,Medical,2023-10-13,Poor
+Employee_v4_077,42.0,,Administration,2021-06-02,Poor
+Employee_v4_078,,8310673,Pharmacy,2021-01-27,Good
+Employee_v4_079,35.0,forty thousand,Medical,2016-04-09,Good
+Employee_v4_080,31.0,4522451,Administration,2016-08-14,Good
+Employee_v4_081,,6079268,Billing,2022-08-03,Good
+Employee_v4_082,41.0,,Administration,2018-03-29,Poor
+Employee_v4_083,30.0,,Administration,2019-01-09,Good
+Employee_v4_084,,5905386,Medical,2021-08-09,Poor
+Employee_v4_085,,8798062,Administration,2024-10-02,Poor
+Employee_v4_086,27.0,sixty-five hundred thousand,Administration,2024-12-09,Good
+Employee_v4_087,,sixty-five hundred thousand,Pharmacy,2020-06-19,Good
+Employee_v4_088,25.0,forty thousand,Billing,2022-01-28,Good
+Employee_v4_089,,sixty-five hundred thousand,Administration,2021-04-22,Poor
+Employee_v4_090,25.0,4454813,Medical,2018-09-22,Poor
+Employee_v4_091,,sixty-five hundred thousand,Billing,2016-01-30,Good
+Employee_v4_092,,,Administration,2016-07-18,Good
+Employee_v4_093,,7393907,Pharmacy,2017-05-02,Good
+Employee_v4_094,36.0,forty thousand,Medical,2023-05-21,Poor
+Employee_v4_095,34.0,4727050,Medical,2015-05-04,Good
+Employee_v4_096,,sixty-five hundred thousand,Medical,2023-06-11,Poor
+Employee_v4_097,,,Medical,2015-01-29,Good
+Employee_v4_098,24.0,,Pharmacy,2015-06-10,Poor
+Employee_v4_099,24.0,sixty-five hundred thousand,Billing,2021-04-16,Poor
+Employee_v4_100,26.0,6018672,Administration,2016-06-17,Good
+Employee_v4_101,,,Billing,2023-07-08,Poor
+Employee_v4_102,43.0,forty thousand,Administration,2019-12-03,Poor
+Employee_v4_103,,forty thousand,Billing,2020-09-29,Poor
+Employee_v4_104,,forty thousand,Pharmacy,2023-11-08,Poor
+Employee_v4_105,44.0,forty thousand,Pharmacy,2021-04-03,Poor
+Employee_v4_106,45.0,sixty-five hundred thousand,Pharmacy,2024-04-18,Poor
+Employee_v4_107,42.0,forty thousand,Billing,2019-09-05,Good
+Employee_v4_108,33.0,sixty-five hundred thousand,Administration,2020-11-18,Poor
+Employee_v4_109,,sixty-five hundred thousand,Billing,2018-02-20,Good
+Employee_v4_110,,,Medical,2020-09-26,Good
+Employee_v4_111,32.0,,Administration,2015-04-07,Poor
+Employee_v4_112,24.0,,Medical,2018-10-22,Poor
+Employee_v4_113,,,Medical,2020-09-10,Poor
+Employee_v4_114,,sixty-five hundred thousand,Billing,2020-04-01,Good
+Employee_v4_115,31.0,5860028,Billing,2018-12-04,Poor
+Employee_v4_116,,7260164,Pharmacy,2020-11-07,Poor
+Employee_v4_117,,sixty-five hundred thousand,Medical,2019-04-16,Poor
+Employee_v4_118,34.0,forty thousand,Administration,2017-03-16,Poor
+Employee_v4_119,29.0,,Administration,2020-05-10,Poor
+Employee_v4_120,,4762508,Billing,2021-01-30,Poor
+Employee_v4_121,,sixty-five hundred thousand,Administration,2019-04-28,Poor
+Employee_v4_122,,sixty-five hundred thousand,Pharmacy,2020-10-12,Good
+Employee_v4_123,,8655916,Billing,2023-10-23,Poor
+Employee_v4_124,,,Billing,2015-07-31,Poor
+Employee_v4_125,,7359106,Pharmacy,2016-09-06,Poor
+Employee_v4_126,,forty thousand,Pharmacy,2018-01-16,Good
+Employee_v4_127,,7311434,Pharmacy,2015-03-28,Poor
+Employee_v4_128,,,Billing,2017-06-15,Good
+Employee_v4_129,27.0,sixty-five hundred thousand,Administration,2020-03-13,Good
+Employee_v4_130,24.0,6928616,Pharmacy,2016-11-24,Good
+Employee_v4_131,30.0,7822705,Administration,2018-10-12,Poor
+Employee_v4_132,,,Medical,2021-03-30,Good
+Employee_v4_133,,,Billing,2021-09-01,Good
+Employee_v4_134,,,Administration,2024-11-09,Good
+Employee_v4_135,38.0,,Pharmacy,2017-11-12,Good
+Employee_v4_136,25.0,sixty-five hundred thousand,Administration,2021-03-11,Poor
+Employee_v4_137,,,Billing,2016-11-21,Poor
+Employee_v4_138,,,Medical,2020-09-22,Good
+Employee_v4_139,24.0,sixty-five hundred thousand,Pharmacy,2023-07-01,Poor
+Employee_v4_140,,,Billing,2020-10-12,Good
+Employee_v4_141,,forty thousand,Billing,2021-10-03,Poor
+Employee_v4_142,,forty thousand,Pharmacy,2017-07-02,Poor
+Employee_v4_143,,sixty-five hundred thousand,Pharmacy,2016-10-08,Good
+Employee_v4_144,,,Administration,2022-01-02,Good
+Employee_v4_145,,5192045,Medical,2018-01-07,Poor
+Employee_v4_146,,4697805,Pharmacy,2016-06-18,Good
+Employee_v4_147,24.0,sixty-five hundred thousand,Medical,2017-11-29,Good
+Employee_v4_148,36.0,5355511,Billing,2016-09-15,Poor
+Employee_v4_149,,forty thousand,Billing,2020-05-12,Good
+Employee_v4_150,,,Billing,2024-05-27,Good
+Employee_v4_151,,forty thousand,Pharmacy,2021-02-04,Good
+Employee_v4_152,,,Administration,2021-01-29,Good
+Employee_v4_153,41.0,,Pharmacy,2019-05-14,Good
+Employee_v4_154,,forty thousand,Administration,2021-07-04,Good
+Employee_v4_155,34.0,4741405,Administration,2022-09-13,Poor
+Employee_v4_156,42.0,sixty-five hundred thousand,Billing,2017-09-25,Poor
+Employee_v4_157,,forty thousand,Pharmacy,2020-05-25,Good
+Employee_v4_158,,sixty-five hundred thousand,Billing,2024-06-03,Poor
+Employee_v4_159,,,Medical,2015-09-12,Good
+Employee_v4_160,29.0,,Administration,2019-08-19,Good
+Employee_v4_161,44.0,,Pharmacy,2016-09-09,Poor
+Employee_v4_162,39.0,sixty-five hundred thousand,Billing,2020-01-13,Poor
+Employee_v4_163,45.0,6871538,Billing,2020-05-22,Poor
+Employee_v4_164,,sixty-five hundred thousand,Medical,2018-04-25,Poor
+Employee_v4_165,28.0,forty thousand,Medical,2015-06-28,Good
+Employee_v4_166,42.0,,Administration,2019-03-09,Poor
+Employee_v4_167,27.0,forty thousand,Pharmacy,2015-04-25,Good
+Employee_v4_168,,forty thousand,Administration,2022-11-15,Poor
+Employee_v4_169,34.0,8635269,Billing,2016-10-08,Good
+Employee_v4_170,28.0,forty thousand,Administration,2019-11-27,Poor
+Employee_v4_171,,8246363,Pharmacy,2022-11-20,Good
+Employee_v4_172,31.0,sixty-five hundred thousand,Administration,2015-05-16,Good
+Employee_v4_173,33.0,sixty-five hundred thousand,Pharmacy,2019-01-02,Good
+Employee_v4_174,,,Medical,2017-05-17,Good
+Employee_v4_175,31.0,forty thousand,Billing,2021-03-07,Poor
+Employee_v4_176,32.0,sixty-five hundred thousand,Administration,2024-09-21,Good
+Employee_v4_177,34.0,sixty-five hundred thousand,Medical,2016-09-15,Good
+Employee_v4_178,,,Pharmacy,2023-05-14,Good
+Employee_v4_179,24.0,,Billing,2020-07-26,Poor
+Employee_v4_180,,sixty-five hundred thousand,Administration,2018-03-16,Good
+Employee_v4_181,,forty thousand,Pharmacy,2021-10-07,Good
+Employee_v4_182,,7757460,Medical,2022-06-18,Poor
+Employee_v4_183,,forty thousand,Pharmacy,2021-05-04,Poor
+Employee_v4_184,36.0,7307397,Pharmacy,2020-11-01,Good
+Employee_v4_185,,sixty-five hundred thousand,Medical,2020-02-20,Poor
+Employee_v4_186,,8868222,Billing,2024-05-22,Good
+Employee_v4_187,,forty thousand,Billing,2022-08-15,Poor
+Employee_v4_188,24.0,sixty-five hundred thousand,Billing,2022-07-26,Poor
+Employee_v4_189,39.0,forty thousand,Billing,2021-11-25,Poor
+Employee_v4_190,39.0,,Billing,2022-12-02,Poor
+Employee_v4_191,,forty thousand,Billing,2019-02-16,Poor
+Employee_v4_192,44.0,,Medical,2023-04-15,Poor
+Employee_v4_193,39.0,7598651,Billing,2016-09-22,Good
+Employee_v4_194,27.0,5045690,Medical,2016-09-16,Poor
+Employee_v4_195,,,Pharmacy,2015-05-24,Good
+Employee_v4_196,,6789375,Administration,2024-03-03,Good
+Employee_v4_197,27.0,,Billing,2016-03-18,Good
+Employee_v4_198,27.0,forty thousand,Administration,2024-02-26,Good
+Employee_v4_199,31.0,,Administration,2019-05-22,Good
+Employee_v4_200,40.0,,Medical,2021-07-12,Poor
+Employee_v4_201,34.0,5426043,Billing,2015-07-31,Poor
+Employee_v4_202,,,Medical,2018-08-06,Good
+Employee_v4_203,,sixty-five hundred thousand,Pharmacy,2015-04-28,Good
+Employee_v4_204,35.0,,Billing,2024-05-03,Poor
+Employee_v4_205,,sixty-five hundred thousand,Billing,2022-12-08,Poor
+Employee_v4_206,32.0,7213021,Administration,2015-07-11,Good
+Employee_v4_207,,,Billing,2021-08-07,Poor
+Employee_v4_208,28.0,forty thousand,Medical,2015-11-20,Poor
+Employee_v4_209,,forty thousand,Administration,2018-07-03,Poor
+Employee_v4_210,,sixty-five hundred thousand,Administration,2015-04-22,Poor
+Employee_v4_211,36.0,8376230,Medical,2023-06-16,Good
+Employee_v4_212,30.0,forty thousand,Medical,2016-05-01,Good
+Employee_v4_213,,forty thousand,Pharmacy,2021-04-27,Good
+Employee_v4_214,36.0,6226532,Medical,2021-10-01,Poor
+Employee_v4_215,44.0,sixty-five hundred thousand,Administration,2021-04-25,Good
+Employee_v4_216,35.0,forty thousand,Pharmacy,2017-05-24,Good
+Employee_v4_217,,5546075,Billing,2017-11-08,Poor
+Employee_v4_218,,,Pharmacy,2024-02-03,Poor
+Employee_v4_219,,,Medical,2019-09-05,Good
+Employee_v4_220,,,Medical,2024-02-13,Good
+Employee_v4_221,,5940404,Medical,2019-05-17,Good
+Employee_v4_222,29.0,sixty-five hundred thousand,Medical,2016-09-04,Poor
+Employee_v4_223,32.0,sixty-five hundred thousand,Administration,2023-08-20,Good
+Employee_v4_224,45.0,sixty-five hundred thousand,Billing,2015-02-04,Poor
+Employee_v4_225,,sixty-five hundred thousand,Administration,2021-07-27,Poor
+Employee_v4_226,41.0,4926049,Pharmacy,2018-04-22,Good
+Employee_v4_227,,forty thousand,Pharmacy,2016-03-02,Good
+Employee_v4_228,,forty thousand,Billing,2021-06-24,Good
+Employee_v4_229,,,Medical,2018-07-28,Poor
+Employee_v4_230,,sixty-five hundred thousand,Administration,2021-12-09,Good
+Employee_v4_231,32.0,,Pharmacy,2023-04-05,Good
+Employee_v4_232,38.0,sixty-five hundred thousand,Medical,2023-12-15,Poor
+Employee_v4_233,,,Administration,2016-01-24,Good
+Employee_v4_234,,,Administration,2022-01-07,Poor
+Employee_v4_235,,,Medical,2022-01-20,Poor
+Employee_v4_236,,sixty-five hundred thousand,Administration,2024-10-18,Good
+Employee_v4_237,43.0,4432139,Administration,2017-10-06,Poor
+Employee_v4_238,,,Medical,2022-07-19,Good
+Employee_v4_239,,,Pharmacy,2016-11-21,Poor
+Employee_v4_240,28.0,7611462,Administration,2015-05-25,Good
+Employee_v4_241,29.0,sixty-five hundred thousand,Pharmacy,2017-07-20,Good
+Employee_v4_242,,4797803,Administration,2024-01-29,Poor
+Employee_v4_243,34.0,,Billing,2018-11-09,Good
+Employee_v4_244,,forty thousand,Pharmacy,2015-08-10,Good
+Employee_v4_245,26.0,forty thousand,Billing,2018-01-26,Good
+Employee_v4_246,26.0,7660539,Pharmacy,2024-05-02,Poor
+Employee_v4_247,,sixty-five hundred thousand,Billing,2020-08-29,Poor
+Employee_v4_248,31.0,forty thousand,Medical,2015-11-28,Poor
+Employee_v4_249,28.0,forty thousand,Pharmacy,2016-06-01,Good
+Employee_v4_250,39.0,,Administration,2015-07-30,Poor
+Employee_v4_251,,,Medical,2020-08-15,Poor
+Employee_v4_252,,forty thousand,Billing,2024-06-15,Good
+Employee_v4_253,,6121886,Administration,2024-03-08,Poor
+Employee_v4_254,,,Pharmacy,2016-09-27,Poor
+Employee_v4_255,24.0,4987933,Billing,2018-01-14,Good
+Employee_v4_256,27.0,forty thousand,Medical,2018-11-09,Poor
+Employee_v4_257,,forty thousand,Medical,2018-01-27,Good
+Employee_v4_258,,forty thousand,Administration,2020-08-31,Good
+Employee_v4_259,31.0,sixty-five hundred thousand,Pharmacy,2016-11-18,Good
+Employee_v4_260,42.0,,Administration,2024-01-21,Poor
+Employee_v4_261,,,Administration,2019-04-02,Good
+Employee_v4_262,30.0,6927522,Administration,2022-12-19,Good
+Employee_v4_263,,8917998,Pharmacy,2022-01-26,Poor
+Employee_v4_264,25.0,7206089,Pharmacy,2016-01-22,Good
+Employee_v4_265,38.0,,Pharmacy,2021-07-16,Good
+Employee_v4_266,39.0,sixty-five hundred thousand,Pharmacy,2023-09-24,Poor
+Employee_v4_267,,sixty-five hundred thousand,Medical,2015-08-05,Poor
+Employee_v4_268,32.0,7273454,Pharmacy,2015-10-25,Poor
+Employee_v4_269,43.0,4343508,Administration,2021-12-03,Good
+Employee_v4_270,24.0,5865024,Pharmacy,2020-12-17,Good
+Employee_v4_271,25.0,,Medical,2019-10-30,Good
+Employee_v4_272,,forty thousand,Billing,2020-08-14,Poor
+Employee_v4_273,40.0,8395434,Administration,2019-04-23,Good
+Employee_v4_274,28.0,sixty-five hundred thousand,Billing,2023-03-13,Good
+Employee_v4_275,36.0,forty thousand,Billing,2015-11-23,Poor
+Employee_v4_276,,,Administration,2020-12-17,Poor
+Employee_v4_277,,,Medical,2018-12-18,Good
+Employee_v4_278,,,Medical,2020-12-04,Good
+Employee_v4_279,,,Billing,2021-06-17,Good
+Employee_v4_280,30.0,,Administration,2023-09-27,Poor
+Employee_v4_281,,forty thousand,Billing,2019-12-13,Good
+Employee_v4_282,,4637002,Administration,2023-12-18,Good
+Employee_v4_283,42.0,forty thousand,Medical,2018-06-30,Poor
+Employee_v4_284,40.0,6102125,Administration,2024-07-25,Poor
+Employee_v4_285,30.0,4917538,Administration,2023-01-04,Poor
+Employee_v4_286,,forty thousand,Administration,2023-06-29,Poor
+Employee_v4_287,29.0,,Billing,2023-01-12,Good
+Employee_v4_288,,sixty-five hundred thousand,Medical,2018-07-28,Good
+Employee_v4_289,37.0,,Administration,2016-10-04,Poor
+Employee_v4_290,34.0,forty thousand,Billing,2022-06-27,Poor
+Employee_v4_291,,forty thousand,Medical,2024-10-28,Good
+Employee_v4_292,,forty thousand,Billing,2017-04-18,Good
+Employee_v4_293,33.0,,Pharmacy,2021-06-19,Good
+Employee_v4_294,45.0,,Pharmacy,2022-09-13,Poor
+Employee_v4_295,,forty thousand,Pharmacy,2017-05-25,Poor
+Employee_v4_296,24.0,5727666,Medical,2023-01-17,Poor
+Employee_v4_297,,forty thousand,Pharmacy,2018-01-23,Poor
+Employee_v4_298,43.0,,Pharmacy,2022-03-05,Poor
+Employee_v4_299,34.0,forty thousand,Administration,2016-03-05,Poor
+Employee_v4_300,,6973304,Medical,2019-08-02,Good
+Employee_v4_301,28.0,forty thousand,Medical,2020-12-26,Good
+Employee_v4_302,,forty thousand,Billing,2016-08-02,Good
+Employee_v4_303,,forty thousand,Administration,2020-08-17,Good
+Employee_v4_304,34.0,,Pharmacy,2016-06-09,Poor
+Employee_v4_305,,sixty-five hundred thousand,Medical,2020-03-04,Good
+Employee_v4_306,31.0,forty thousand,Medical,2017-04-06,Good
+Employee_v4_307,28.0,7339213,Administration,2016-05-12,Good
+Employee_v4_308,25.0,5113202,Pharmacy,2015-02-12,Good
+Employee_v4_309,40.0,sixty-five hundred thousand,Pharmacy,2016-10-21,Good
+Employee_v4_310,39.0,,Medical,2017-05-30,Poor
+Employee_v4_311,32.0,sixty-five hundred thousand,Medical,2015-03-03,Good
+Employee_v4_312,40.0,,Administration,2020-07-19,Poor
+Employee_v4_313,,5541065,Billing,2023-12-28,Good
+Employee_v4_314,,sixty-five hundred thousand,Medical,2016-12-23,Good
+Employee_v4_315,32.0,7825490,Administration,2018-06-06,Poor
+Employee_v4_316,33.0,forty thousand,Medical,2023-01-10,Good
+Employee_v4_317,,6200446,Medical,2021-12-24,Good
+Employee_v4_318,,forty thousand,Medical,2020-09-05,Good
+Employee_v4_319,44.0,,Billing,2021-05-04,Poor
+Employee_v4_320,36.0,sixty-five hundred thousand,Billing,2021-04-16,Good
+Employee_v4_321,,6477841,Billing,2018-10-26,Poor
+Employee_v4_322,31.0,sixty-five hundred thousand,Medical,2020-08-16,Good
+Employee_v4_323,,6212424,Medical,2015-11-07,Good
+Employee_v4_324,26.0,sixty-five hundred thousand,Administration,2015-10-10,Good
+Employee_v4_325,40.0,4361467,Medical,2016-05-27,Poor
+Employee_v4_326,26.0,6431124,Medical,2021-10-31,Good
+Employee_v4_327,45.0,forty thousand,Administration,2021-01-14,Poor
+Employee_v4_328,,,Medical,2024-09-25,Poor
+Employee_v4_329,,,Billing,2015-08-08,Poor
+Employee_v4_330,,forty thousand,Billing,2020-10-24,Good
+Employee_v4_331,27.0,,Billing,2022-12-26,Good
+Employee_v4_332,,sixty-five hundred thousand,Pharmacy,2018-09-05,Good
+Employee_v4_333,31.0,,Billing,2022-01-01,Good
+Employee_v4_334,31.0,sixty-five hundred thousand,Medical,2016-08-01,Good
+Employee_v4_335,34.0,forty thousand,Administration,2017-06-08,Poor
+Employee_v4_336,36.0,6392940,Pharmacy,2023-04-01,Poor
+Employee_v4_337,,,Billing,2019-07-02,Good
+Employee_v4_338,,sixty-five hundred thousand,Billing,2019-09-24,Good
+Employee_v4_339,26.0,sixty-five hundred thousand,Pharmacy,2020-04-12,Good
+Employee_v4_340,34.0,8500399,Medical,2024-12-21,Good
+Employee_v4_341,37.0,sixty-five hundred thousand,Medical,2021-07-19,Poor
+Employee_v4_342,,7437442,Administration,2020-03-02,Good
+Employee_v4_343,,,Medical,2021-11-29,Good
+Employee_v4_344,,,Pharmacy,2019-02-26,Good
+Employee_v4_345,,,Billing,2017-05-14,Poor
+Employee_v4_346,,sixty-five hundred thousand,Pharmacy,2017-03-21,Poor
+Employee_v4_347,,forty thousand,Medical,2015-02-16,Poor
+Employee_v4_348,42.0,6953332,Billing,2018-05-21,Poor
+Employee_v4_349,,6127932,Medical,2020-12-07,Poor
+Employee_v4_350,28.0,6380083,Administration,2016-04-24,Poor
+Employee_v4_351,,forty thousand,Administration,2017-11-08,Poor
+Employee_v4_352,,forty thousand,Billing,2020-08-16,Poor
+Employee_v4_353,29.0,,Billing,2023-05-09,Good
+Employee_v4_354,43.0,forty thousand,Pharmacy,2017-10-13,Good
+Employee_v4_355,42.0,forty thousand,Administration,2018-11-10,Good
+Employee_v4_356,32.0,4557907,Billing,2022-04-14,Good
+Employee_v4_357,,6006074,Billing,2016-11-06,Good
+Employee_v4_358,44.0,,Administration,2019-09-22,Poor
+Employee_v4_359,,,Pharmacy,2016-04-28,Poor
+Employee_v4_360,26.0,,Medical,2019-07-29,Poor
+Employee_v4_361,32.0,forty thousand,Medical,2023-06-08,Poor
+Employee_v4_362,30.0,4382775,Pharmacy,2023-11-26,Good
+Employee_v4_363,,sixty-five hundred thousand,Billing,2018-01-04,Good
+Employee_v4_364,35.0,,Medical,2024-08-06,Good
+Employee_v4_365,26.0,forty thousand,Billing,2019-11-19,Poor
+Employee_v4_366,25.0,,Pharmacy,2023-08-26,Good
+Employee_v4_367,34.0,sixty-five hundred thousand,Administration,2020-06-25,Good
+Employee_v4_368,30.0,forty thousand,Pharmacy,2020-08-15,Good
+Employee_v4_369,25.0,sixty-five hundred thousand,Medical,2021-12-25,Good
+Employee_v4_370,,,Administration,2024-07-04,Good
+Employee_v4_371,25.0,sixty-five hundred thousand,Administration,2016-09-05,Poor
+Employee_v4_372,,sixty-five hundred thousand,Medical,2024-10-15,Good
+Employee_v4_373,27.0,forty thousand,Medical,2021-01-10,Good
+Employee_v4_374,,sixty-five hundred thousand,Billing,2019-04-06,Good
+Employee_v4_375,33.0,sixty-five hundred thousand,Pharmacy,2015-03-19,Good
+Employee_v4_376,,forty thousand,Billing,2015-12-05,Poor
+Employee_v4_377,43.0,,Administration,2022-05-22,Poor
+Employee_v4_378,24.0,7606157,Administration,2023-02-27,Poor
+Employee_v4_379,,,Pharmacy,2022-08-04,Good
+Employee_v4_380,28.0,7489215,Pharmacy,2022-10-30,Good
+Employee_v4_381,37.0,sixty-five hundred thousand,Billing,2022-09-08,Good
+Employee_v4_382,,6908726,Billing,2015-08-17,Poor
+Employee_v4_383,,4383933,Administration,2018-10-14,Poor
+Employee_v4_384,,,Administration,2017-12-05,Good
+Employee_v4_385,,forty thousand,Medical,2024-08-31,Good
+Employee_v4_386,29.0,sixty-five hundred thousand,Billing,2021-10-26,Poor
+Employee_v4_387,35.0,,Medical,2021-10-24,Poor
+Employee_v4_388,,4458688,Administration,2024-04-10,Good
+Employee_v4_389,41.0,,Billing,2015-11-06,Poor
+Employee_v4_390,28.0,,Pharmacy,2018-03-20,Poor
+Employee_v4_391,,forty thousand,Pharmacy,2024-08-10,Good
+Employee_v4_392,36.0,forty thousand,Administration,2023-08-21,Poor
+Employee_v4_393,41.0,forty thousand,Administration,2016-02-29,Poor
+Employee_v4_394,41.0,,Pharmacy,2018-11-07,Poor
+Employee_v4_395,,5462471,Pharmacy,2020-02-09,Poor
+Employee_v4_396,26.0,5660834,Medical,2023-07-29,Good
+Employee_v4_397,,forty thousand,Medical,2019-05-21,Good
+Employee_v4_398,,8660890,Pharmacy,2021-05-26,Good
+Employee_v4_399,31.0,forty thousand,Administration,2022-10-15,Good
+Employee_v4_400,,forty thousand,Billing,2017-05-28,Good
+Employee_v4_401,30.0,sixty-five hundred thousand,Billing,2021-02-09,Good
+Employee_v4_402,28.0,forty thousand,Medical,2021-01-08,Good
+Employee_v4_403,36.0,sixty-five hundred thousand,Medical,2021-09-22,Good
+Employee_v4_404,35.0,forty thousand,Billing,2017-08-20,Good
+Employee_v4_405,31.0,sixty-five hundred thousand,Pharmacy,2024-11-23,Good
+Employee_v4_406,,sixty-five hundred thousand,Medical,2021-06-10,Good
+Employee_v4_407,,sixty-five hundred thousand,Medical,2019-08-19,Poor
+Employee_v4_408,,sixty-five hundred thousand,Medical,2023-06-01,Good
+Employee_v4_409,,7600706,Pharmacy,2022-04-09,Poor
+Employee_v4_410,,forty thousand,Billing,2021-08-26,Good
+Employee_v4_411,45.0,6268851,Administration,2023-06-24,Poor
+Employee_v4_412,,sixty-five hundred thousand,Medical,2023-07-02,Good
+Employee_v4_413,,forty thousand,Administration,2019-10-28,Poor
+Employee_v4_414,,forty thousand,Pharmacy,2022-01-13,Good
+Employee_v4_415,36.0,,Administration,2022-05-01,Good
+Employee_v4_416,44.0,forty thousand,Administration,2024-02-17,Good
+Employee_v4_417,,5818235,Administration,2021-04-26,Poor
+Employee_v4_418,,forty thousand,Pharmacy,2021-01-06,Poor
+Employee_v4_419,32.0,,Medical,2015-05-06,Poor
+Employee_v4_420,39.0,forty thousand,Pharmacy,2016-12-02,Good
+Employee_v4_421,,forty thousand,Medical,2024-05-29,Good
+Employee_v4_422,,forty thousand,Administration,2020-05-08,Good
+Employee_v4_423,,sixty-five hundred thousand,Medical,2023-05-30,Good
+Employee_v4_424,42.0,4308945,Pharmacy,2019-06-11,Good
+Employee_v4_425,,,Pharmacy,2016-02-29,Poor
+Employee_v4_426,,forty thousand,Administration,2023-10-28,Good
+Employee_v4_427,,forty thousand,Medical,2018-07-05,Poor
+Employee_v4_428,24.0,sixty-five hundred thousand,Pharmacy,2017-01-02,Poor
+Employee_v4_429,31.0,,Billing,2020-05-17,Good
+Employee_v4_430,,4936435,Administration,2019-01-14,Poor
+Employee_v4_431,31.0,sixty-five hundred thousand,Medical,2018-06-24,Poor
+Employee_v4_432,42.0,sixty-five hundred thousand,Administration,2016-07-16,Good
+Employee_v4_433,,forty thousand,Pharmacy,2017-05-09,Poor
+Employee_v4_434,,forty thousand,Administration,2024-01-24,Poor
+Employee_v4_435,,sixty-five hundred thousand,Billing,2020-01-05,Poor
+Employee_v4_436,,,Pharmacy,2021-03-26,Poor
+Employee_v4_437,25.0,forty thousand,Billing,2021-11-09,Poor
+Employee_v4_438,44.0,,Administration,2021-10-04,Poor
+Employee_v4_439,,,Medical,2021-11-20,Good
+Employee_v4_440,28.0,forty thousand,Medical,2015-10-09,Poor
+Employee_v4_441,41.0,forty thousand,Billing,2016-03-05,Good
+Employee_v4_442,,,Medical,2021-11-30,Good
+Employee_v4_443,29.0,forty thousand,Administration,2022-02-08,Good
+Employee_v4_444,,forty thousand,Medical,2017-04-19,Poor
+Employee_v4_445,,,Administration,2016-12-30,Poor
+Employee_v4_446,,forty thousand,Billing,2018-01-01,Poor
+Employee_v4_447,45.0,forty thousand,Billing,2023-10-26,Good
+Employee_v4_448,,sixty-five hundred thousand,Medical,2019-04-06,Poor
+Employee_v4_449,26.0,7545702,Medical,2015-03-20,Good
+Employee_v4_450,,5567471,Pharmacy,2024-06-14,Poor
+Employee_v4_451,28.0,sixty-five hundred thousand,Pharmacy,2023-09-30,Poor
+Employee_v4_452,,sixty-five hundred thousand,Medical,2017-09-27,Good
+Employee_v4_453,45.0,,Administration,2018-09-18,Good
+Employee_v4_454,41.0,sixty-five hundred thousand,Medical,2015-03-14,Good
+Employee_v4_455,41.0,sixty-five hundred thousand,Medical,2019-12-27,Poor
+Employee_v4_456,,sixty-five hundred thousand,Pharmacy,2021-06-08,Poor
+Employee_v4_457,33.0,sixty-five hundred thousand,Pharmacy,2023-05-27,Poor
+Employee_v4_458,37.0,forty thousand,Medical,2021-06-14,Poor
+Employee_v4_459,31.0,,Billing,2016-08-18,Poor
+Employee_v4_460,45.0,,Administration,2024-08-14,Good
+Employee_v4_461,,forty thousand,Billing,2019-08-25,Good
+Employee_v4_462,,sixty-five hundred thousand,Administration,2020-03-04,Good
+Employee_v4_463,,forty thousand,Billing,2018-08-29,Good
+Employee_v4_464,36.0,forty thousand,Billing,2022-02-27,Good
+Employee_v4_465,,sixty-five hundred thousand,Pharmacy,2018-07-25,Good
+Employee_v4_466,44.0,6892816,Administration,2015-12-24,Poor
+Employee_v4_467,32.0,,Pharmacy,2017-07-30,Good
+Employee_v4_468,,,Pharmacy,2017-09-14,Good
+Employee_v4_469,,forty thousand,Billing,2020-11-05,Good
+Employee_v4_470,,8626736,Pharmacy,2020-10-11,Good
+Employee_v4_471,,6919234,Pharmacy,2024-01-26,Poor
+Employee_v4_472,,7505377,Billing,2016-02-18,Poor
+Employee_v4_473,38.0,,Administration,2022-06-13,Good
+Employee_v4_474,,5790842,Administration,2015-01-21,Poor
+Employee_v4_475,27.0,,Billing,2022-10-30,Good
+Employee_v4_476,,,Billing,2024-09-23,Good
+Employee_v4_477,28.0,,Administration,2015-07-07,Poor
+Employee_v4_478,,sixty-five hundred thousand,Pharmacy,2015-02-24,Good
+Employee_v4_479,,,Billing,2018-07-08,Poor
+Employee_v4_480,,sixty-five hundred thousand,Administration,2021-09-16,Poor
+Employee_v4_481,42.0,sixty-five hundred thousand,Pharmacy,2018-08-18,Good
+Employee_v4_482,,forty thousand,Billing,2018-10-29,Poor
+Employee_v4_483,,sixty-five hundred thousand,Billing,2019-11-04,Poor
+Employee_v4_484,,5161668,Medical,2023-03-03,Poor
+Employee_v4_485,41.0,sixty-five hundred thousand,Billing,2021-02-15,Good
+Employee_v4_486,38.0,sixty-five hundred thousand,Administration,2023-12-02,Poor
+Employee_v4_487,32.0,sixty-five hundred thousand,Medical,2019-01-22,Poor
+Employee_v4_488,38.0,,Pharmacy,2020-11-28,Poor
+Employee_v4_489,,sixty-five hundred thousand,Administration,2018-05-24,Good
+Employee_v4_490,,forty thousand,Administration,2023-11-06,Poor
+Employee_v4_491,,forty thousand,Administration,2017-09-23,Poor
+Employee_v4_492,27.0,,Administration,2022-09-13,Poor
+Employee_v4_493,28.0,sixty-five hundred thousand,Pharmacy,2020-05-25,Poor
+Employee_v4_494,,4039556,Medical,2023-05-08,Good
+Employee_v4_495,33.0,forty thousand,Pharmacy,2023-05-16,Good
+Employee_v4_496,,forty thousand,Administration,2022-12-13,Poor
+Employee_v4_497,36.0,7090338,Pharmacy,2024-04-03,Poor
+Employee_v4_498,,forty thousand,Pharmacy,2019-06-08,Good
+Employee_v4_499,,7742407,Medical,2023-08-01,Good
+Employee_v4_500,,forty thousand,Billing,2015-12-28,Good

@@ -1,0 +1,501 @@
+Name,Age,Salary,Department,Joined_Date,Performance
+Employee_v2_001,33.0,forty thousand,QA,2016-05-06,Poor
+Employee_v2_002,38.0,,Engineering,2017-06-28,Good
+Employee_v2_003,24.0,,Product,2019-08-30,Poor
+Employee_v2_004,43.0,forty thousand,Support,2021-06-19,Good
+Employee_v2_005,34.0,forty thousand,QA,2019-08-22,Poor
+Employee_v2_006,,8938275,Engineering,2017-06-21,Poor
+Employee_v2_007,37.0,sixty-five hundred thousand,Engineering,2020-01-28,Poor
+Employee_v2_008,27.0,7741348,Support,2021-07-18,Good
+Employee_v2_009,,6790681,Support,2016-11-02,Poor
+Employee_v2_010,,forty thousand,QA,2024-02-03,Good
+Employee_v2_011,34.0,forty thousand,QA,2022-06-23,Good
+Employee_v2_012,,,Engineering,2022-01-29,Good
+Employee_v2_013,42.0,6418324,QA,2019-05-07,Poor
+Employee_v2_014,43.0,sixty-five hundred thousand,Engineering,2019-01-15,Poor
+Employee_v2_015,,5257645,Engineering,2015-06-04,Poor
+Employee_v2_016,37.0,forty thousand,Product,2015-06-20,Poor
+Employee_v2_017,35.0,7217137,QA,2020-10-20,Good
+Employee_v2_018,,forty thousand,QA,2018-04-22,Good
+Employee_v2_019,,4777907,Product,2020-01-10,Good
+Employee_v2_020,,8123769,QA,2016-08-01,Poor
+Employee_v2_021,28.0,8899459,QA,2023-10-24,Poor
+Employee_v2_022,38.0,sixty-five hundred thousand,Engineering,2015-12-19,Poor
+Employee_v2_023,36.0,forty thousand,Engineering,2023-07-14,Good
+Employee_v2_024,,,Product,2021-10-27,Poor
+Employee_v2_025,36.0,4084685,Engineering,2016-12-05,Poor
+Employee_v2_026,30.0,,Product,2015-05-09,Good
+Employee_v2_027,29.0,forty thousand,QA,2015-06-06,Poor
+Employee_v2_028,,,Engineering,2024-06-26,Poor
+Employee_v2_029,37.0,forty thousand,Product,2017-03-31,Poor
+Employee_v2_030,,,Support,2016-08-28,Good
+Employee_v2_031,31.0,forty thousand,Product,2016-10-15,Good
+Employee_v2_032,33.0,,QA,2024-01-04,Good
+Employee_v2_033,,,Support,2022-01-10,Poor
+Employee_v2_034,31.0,8297695,Product,2022-02-12,Good
+Employee_v2_035,24.0,6654596,Support,2021-02-20,Poor
+Employee_v2_036,,4803337,Engineering,2016-10-05,Good
+Employee_v2_037,,forty thousand,Engineering,2018-08-31,Good
+Employee_v2_038,,8160855,Support,2015-07-24,Good
+Employee_v2_039,,sixty-five hundred thousand,Engineering,2019-05-29,Good
+Employee_v2_040,26.0,forty thousand,Product,2024-09-24,Good
+Employee_v2_041,39.0,forty thousand,Support,2019-07-25,Good
+Employee_v2_042,,forty thousand,Engineering,2022-11-09,Poor
+Employee_v2_043,26.0,,Product,2021-12-11,Poor
+Employee_v2_044,,sixty-five hundred thousand,Support,2016-03-16,Poor
+Employee_v2_045,,,QA,2024-08-18,Poor
+Employee_v2_046,,sixty-five hundred thousand,Engineering,2022-08-14,Poor
+Employee_v2_047,33.0,forty thousand,Support,2018-08-16,Poor
+Employee_v2_048,26.0,forty thousand,Product,2016-03-13,Good
+Employee_v2_049,30.0,6915094,Product,2018-07-05,Good
+Employee_v2_050,,sixty-five hundred thousand,Engineering,2020-03-27,Good
+Employee_v2_051,43.0,,Product,2016-07-22,Poor
+Employee_v2_052,,sixty-five hundred thousand,QA,2017-04-12,Poor
+Employee_v2_053,,forty thousand,Support,2020-03-31,Good
+Employee_v2_054,42.0,forty thousand,Engineering,2020-06-27,Poor
+Employee_v2_055,34.0,sixty-five hundred thousand,Product,2019-06-30,Good
+Employee_v2_056,,6609735,QA,2020-08-31,Poor
+Employee_v2_057,,,Support,2024-08-12,Poor
+Employee_v2_058,,sixty-five hundred thousand,Product,2023-12-17,Good
+Employee_v2_059,35.0,forty thousand,Engineering,2016-06-02,Good
+Employee_v2_060,34.0,forty thousand,QA,2024-10-06,Good
+Employee_v2_061,35.0,sixty-five hundred thousand,QA,2023-05-17,Poor
+Employee_v2_062,,sixty-five hundred thousand,QA,2021-09-23,Good
+Employee_v2_063,,forty thousand,Support,2021-05-11,Good
+Employee_v2_064,27.0,,Product,2022-03-06,Good
+Employee_v2_065,,8319717,QA,2020-04-26,Poor
+Employee_v2_066,,sixty-five hundred thousand,Product,2020-05-27,Good
+Employee_v2_067,35.0,sixty-five hundred thousand,Product,2022-06-07,Good
+Employee_v2_068,42.0,7504269,QA,2015-05-17,Good
+Employee_v2_069,,6773821,Product,2018-02-26,Good
+Employee_v2_070,,sixty-five hundred thousand,Product,2016-01-20,Poor
+Employee_v2_071,,7370882,Support,2019-10-19,Poor
+Employee_v2_072,42.0,,QA,2018-08-10,Good
+Employee_v2_073,27.0,,Engineering,2022-09-03,Poor
+Employee_v2_074,,6396686,Support,2024-07-27,Good
+Employee_v2_075,,5651061,Support,2022-11-24,Poor
+Employee_v2_076,,7403965,QA,2016-11-28,Poor
+Employee_v2_077,,,Engineering,2016-11-21,Poor
+Employee_v2_078,,8458208,Product,2016-09-15,Good
+Employee_v2_079,,sixty-five hundred thousand,Product,2022-02-04,Poor
+Employee_v2_080,28.0,6902336,Product,2023-10-14,Poor
+Employee_v2_081,32.0,,Support,2015-01-23,Poor
+Employee_v2_082,,sixty-five hundred thousand,Product,2023-01-26,Good
+Employee_v2_083,,forty thousand,QA,2019-08-21,Good
+Employee_v2_084,39.0,sixty-five hundred thousand,Support,2020-09-13,Good
+Employee_v2_085,39.0,sixty-five hundred thousand,Engineering,2020-01-31,Poor
+Employee_v2_086,25.0,sixty-five hundred thousand,QA,2020-06-26,Good
+Employee_v2_087,,sixty-five hundred thousand,Support,2018-01-15,Good
+Employee_v2_088,,5187609,QA,2021-08-30,Good
+Employee_v2_089,,8815423,QA,2019-11-12,Poor
+Employee_v2_090,,forty thousand,Support,2019-02-07,Poor
+Employee_v2_091,,forty thousand,QA,2021-02-07,Good
+Employee_v2_092,,7889163,QA,2022-08-10,Poor
+Employee_v2_093,30.0,8705413,Support,2022-09-28,Poor
+Employee_v2_094,39.0,forty thousand,QA,2015-05-28,Poor
+Employee_v2_095,29.0,5587802,QA,2019-03-26,Good
+Employee_v2_096,,,Engineering,2020-03-10,Good
+Employee_v2_097,35.0,sixty-five hundred thousand,Engineering,2015-02-26,Good
+Employee_v2_098,,sixty-five hundred thousand,QA,2015-11-11,Good
+Employee_v2_099,,sixty-five hundred thousand,QA,2019-01-18,Poor
+Employee_v2_100,,sixty-five hundred thousand,Engineering,2015-03-01,Good
+Employee_v2_101,,sixty-five hundred thousand,Product,2022-04-06,Poor
+Employee_v2_102,42.0,6052068,QA,2021-07-16,Poor
+Employee_v2_103,29.0,6383349,Product,2023-12-08,Good
+Employee_v2_104,,forty thousand,QA,2017-03-15,Good
+Employee_v2_105,38.0,7781501,Product,2024-08-01,Good
+Employee_v2_106,,8279488,Product,2018-03-29,Good
+Employee_v2_107,24.0,forty thousand,Support,2023-06-12,Poor
+Employee_v2_108,,sixty-five hundred thousand,Support,2021-08-29,Poor
+Employee_v2_109,,forty thousand,Engineering,2024-07-26,Poor
+Employee_v2_110,34.0,forty thousand,Product,2023-03-27,Good
+Employee_v2_111,30.0,,QA,2020-01-09,Good
+Employee_v2_112,35.0,forty thousand,Support,2020-03-09,Poor
+Employee_v2_113,44.0,forty thousand,Product,2022-08-03,Good
+Employee_v2_114,,sixty-five hundred thousand,Product,2018-08-31,Good
+Employee_v2_115,,8824496,QA,2018-06-26,Good
+Employee_v2_116,35.0,,Product,2024-04-18,Good
+Employee_v2_117,,forty thousand,Engineering,2022-11-02,Good
+Employee_v2_118,,forty thousand,QA,2021-06-09,Poor
+Employee_v2_119,37.0,forty thousand,QA,2019-08-17,Poor
+Employee_v2_120,30.0,6231504,Product,2015-10-31,Poor
+Employee_v2_121,27.0,forty thousand,QA,2015-05-10,Poor
+Employee_v2_122,29.0,forty thousand,Product,2021-12-15,Poor
+Employee_v2_123,28.0,6280984,Product,2017-06-16,Poor
+Employee_v2_124,,,Product,2019-10-22,Good
+Employee_v2_125,45.0,sixty-five hundred thousand,QA,2016-01-13,Poor
+Employee_v2_126,,4327372,Support,2022-10-21,Poor
+Employee_v2_127,28.0,forty thousand,Product,2021-07-31,Good
+Employee_v2_128,42.0,,Product,2022-03-31,Good
+Employee_v2_129,,forty thousand,QA,2018-04-16,Good
+Employee_v2_130,41.0,forty thousand,QA,2021-08-29,Poor
+Employee_v2_131,33.0,sixty-five hundred thousand,Engineering,2016-05-28,Poor
+Employee_v2_132,,sixty-five hundred thousand,Product,2021-03-31,Good
+Employee_v2_133,43.0,sixty-five hundred thousand,QA,2016-06-21,Poor
+Employee_v2_134,42.0,4041032,Product,2020-06-12,Poor
+Employee_v2_135,42.0,,Support,2019-01-16,Good
+Employee_v2_136,29.0,sixty-five hundred thousand,Product,2017-04-09,Poor
+Employee_v2_137,,,Support,2021-10-06,Poor
+Employee_v2_138,,forty thousand,Product,2019-03-31,Good
+Employee_v2_139,34.0,4063178,QA,2024-12-21,Good
+Employee_v2_140,,,Product,2024-02-02,Poor
+Employee_v2_141,,,QA,2019-05-30,Poor
+Employee_v2_142,,sixty-five hundred thousand,Engineering,2018-05-24,Good
+Employee_v2_143,36.0,forty thousand,Support,2017-01-22,Poor
+Employee_v2_144,41.0,forty thousand,Product,2019-02-09,Good
+Employee_v2_145,40.0,forty thousand,Engineering,2024-09-17,Good
+Employee_v2_146,,7947161,Support,2022-06-29,Good
+Employee_v2_147,,forty thousand,Support,2022-04-01,Poor
+Employee_v2_148,28.0,6488423,Engineering,2017-10-17,Poor
+Employee_v2_149,39.0,forty thousand,Engineering,2015-07-08,Poor
+Employee_v2_150,31.0,,Engineering,2021-09-04,Good
+Employee_v2_151,39.0,4806597,QA,2018-07-03,Good
+Employee_v2_152,,4922502,Support,2015-08-06,Good
+Employee_v2_153,42.0,,Engineering,2018-01-10,Poor
+Employee_v2_154,42.0,4606120,Product,2021-12-02,Good
+Employee_v2_155,,7711659,QA,2023-09-18,Good
+Employee_v2_156,31.0,6930342,Product,2023-02-07,Poor
+Employee_v2_157,,sixty-five hundred thousand,Engineering,2024-04-03,Good
+Employee_v2_158,,6590561,QA,2019-01-25,Poor
+Employee_v2_159,40.0,forty thousand,Engineering,2016-10-24,Poor
+Employee_v2_160,38.0,,QA,2022-03-22,Good
+Employee_v2_161,45.0,,QA,2023-12-27,Good
+Employee_v2_162,41.0,sixty-five hundred thousand,Support,2023-11-04,Poor
+Employee_v2_163,,sixty-five hundred thousand,Product,2018-09-01,Good
+Employee_v2_164,,sixty-five hundred thousand,Support,2017-10-01,Poor
+Employee_v2_165,34.0,forty thousand,Support,2021-06-25,Poor
+Employee_v2_166,28.0,8575013,Support,2024-12-25,Poor
+Employee_v2_167,,forty thousand,Support,2022-09-24,Good
+Employee_v2_168,,sixty-five hundred thousand,Engineering,2018-08-21,Poor
+Employee_v2_169,40.0,,Product,2016-12-12,Good
+Employee_v2_170,39.0,forty thousand,Engineering,2021-02-08,Good
+Employee_v2_171,,sixty-five hundred thousand,Engineering,2015-12-10,Poor
+Employee_v2_172,40.0,sixty-five hundred thousand,Engineering,2023-12-21,Good
+Employee_v2_173,26.0,6831082,Product,2023-10-10,Good
+Employee_v2_174,,sixty-five hundred thousand,Support,2016-03-29,Poor
+Employee_v2_175,,5830643,Product,2018-07-03,Good
+Employee_v2_176,36.0,forty thousand,QA,2016-12-06,Good
+Employee_v2_177,41.0,sixty-five hundred thousand,Engineering,2020-07-21,Good
+Employee_v2_178,27.0,sixty-five hundred thousand,Engineering,2017-04-05,Good
+Employee_v2_179,,5967694,QA,2021-01-23,Good
+Employee_v2_180,,5921474,Product,2022-05-08,Poor
+Employee_v2_181,,sixty-five hundred thousand,Engineering,2016-11-26,Good
+Employee_v2_182,42.0,8313943,QA,2019-11-05,Poor
+Employee_v2_183,,sixty-five hundred thousand,Product,2018-08-06,Poor
+Employee_v2_184,24.0,forty thousand,QA,2019-03-05,Poor
+Employee_v2_185,38.0,7530931,QA,2015-10-05,Good
+Employee_v2_186,44.0,6418791,Product,2018-06-24,Good
+Employee_v2_187,30.0,8687214,Engineering,2022-08-07,Poor
+Employee_v2_188,,sixty-five hundred thousand,Support,2024-08-09,Good
+Employee_v2_189,44.0,4775357,QA,2023-04-14,Poor
+Employee_v2_190,24.0,sixty-five hundred thousand,Support,2018-04-21,Good
+Employee_v2_191,,,Product,2022-05-06,Poor
+Employee_v2_192,,,Support,2023-05-26,Good
+Employee_v2_193,25.0,,Product,2016-02-29,Good
+Employee_v2_194,,7499901,QA,2024-11-14,Poor
+Employee_v2_195,,,Support,2022-08-12,Good
+Employee_v2_196,,forty thousand,QA,2018-03-04,Poor
+Employee_v2_197,27.0,forty thousand,QA,2020-08-08,Good
+Employee_v2_198,24.0,forty thousand,QA,2015-05-16,Poor
+Employee_v2_199,43.0,,Product,2024-02-09,Poor
+Employee_v2_200,,forty thousand,Product,2024-01-19,Good
+Employee_v2_201,,7711841,Engineering,2020-08-07,Good
+Employee_v2_202,,forty thousand,Support,2016-07-21,Good
+Employee_v2_203,24.0,,QA,2022-12-28,Poor
+Employee_v2_204,45.0,forty thousand,Product,2019-06-30,Poor
+Employee_v2_205,,5148680,Engineering,2022-04-30,Poor
+Employee_v2_206,34.0,sixty-five hundred thousand,Engineering,2020-06-24,Good
+Employee_v2_207,41.0,sixty-five hundred thousand,Support,2016-02-04,Poor
+Employee_v2_208,,7989071,QA,2019-12-23,Poor
+Employee_v2_209,,7860107,QA,2015-03-16,Poor
+Employee_v2_210,,,QA,2023-10-06,Good
+Employee_v2_211,,sixty-five hundred thousand,Product,2017-10-17,Poor
+Employee_v2_212,40.0,forty thousand,Engineering,2020-09-13,Good
+Employee_v2_213,37.0,forty thousand,Product,2019-05-30,Good
+Employee_v2_214,,,Product,2018-06-26,Poor
+Employee_v2_215,39.0,5597452,Engineering,2020-03-08,Good
+Employee_v2_216,,forty thousand,Engineering,2023-11-12,Good
+Employee_v2_217,43.0,forty thousand,QA,2016-05-06,Poor
+Employee_v2_218,,8675402,Product,2015-03-22,Good
+Employee_v2_219,,5563939,Engineering,2020-03-02,Poor
+Employee_v2_220,,sixty-five hundred thousand,Engineering,2024-02-22,Good
+Employee_v2_221,35.0,sixty-five hundred thousand,Engineering,2015-05-12,Poor
+Employee_v2_222,,forty thousand,Engineering,2016-04-09,Poor
+Employee_v2_223,41.0,8512762,Engineering,2018-04-23,Poor
+Employee_v2_224,,,Support,2015-01-14,Poor
+Employee_v2_225,,,Product,2024-04-15,Good
+Employee_v2_226,43.0,sixty-five hundred thousand,QA,2022-08-14,Good
+Employee_v2_227,,7419329,Engineering,2016-07-18,Good
+Employee_v2_228,,forty thousand,Engineering,2017-02-01,Poor
+Employee_v2_229,39.0,sixty-five hundred thousand,Product,2017-07-30,Good
+Employee_v2_230,,forty thousand,QA,2023-04-27,Good
+Employee_v2_231,25.0,sixty-five hundred thousand,Support,2022-06-20,Good
+Employee_v2_232,,forty thousand,Engineering,2017-07-07,Poor
+Employee_v2_233,37.0,7367154,Support,2022-05-26,Poor
+Employee_v2_234,44.0,sixty-five hundred thousand,Engineering,2015-11-27,Poor
+Employee_v2_235,,sixty-five hundred thousand,Product,2016-08-03,Poor
+Employee_v2_236,,forty thousand,Product,2020-04-29,Poor
+Employee_v2_237,44.0,7092785,QA,2015-05-15,Poor
+Employee_v2_238,,6152642,Product,2016-01-09,Good
+Employee_v2_239,30.0,forty thousand,Product,2021-06-07,Good
+Employee_v2_240,,forty thousand,Product,2021-12-14,Good
+Employee_v2_241,26.0,forty thousand,QA,2016-04-05,Poor
+Employee_v2_242,,sixty-five hundred thousand,Product,2017-12-14,Good
+Employee_v2_243,,,Support,2021-09-22,Good
+Employee_v2_244,,forty thousand,Support,2018-02-28,Poor
+Employee_v2_245,30.0,sixty-five hundred thousand,Product,2021-11-26,Good
+Employee_v2_246,,,Engineering,2022-01-28,Poor
+Employee_v2_247,,6926838,Engineering,2016-05-22,Poor
+Employee_v2_248,44.0,sixty-five hundred thousand,QA,2019-08-22,Poor
+Employee_v2_249,,forty thousand,Engineering,2018-08-01,Good
+Employee_v2_250,37.0,5510096,Support,2016-03-17,Good
+Employee_v2_251,,sixty-five hundred thousand,QA,2015-10-17,Good
+Employee_v2_252,27.0,forty thousand,Engineering,2015-01-02,Poor
+Employee_v2_253,35.0,,Support,2020-02-14,Good
+Employee_v2_254,38.0,sixty-five hundred thousand,Product,2019-08-03,Poor
+Employee_v2_255,24.0,4727971,Engineering,2016-09-23,Poor
+Employee_v2_256,25.0,,Product,2020-08-09,Poor
+Employee_v2_257,25.0,forty thousand,Product,2020-08-12,Good
+Employee_v2_258,32.0,sixty-five hundred thousand,Support,2019-02-16,Poor
+Employee_v2_259,,,Product,2023-04-04,Good
+Employee_v2_260,,,QA,2018-02-14,Poor
+Employee_v2_261,,6394170,Product,2015-09-13,Poor
+Employee_v2_262,,sixty-five hundred thousand,Engineering,2023-02-23,Poor
+Employee_v2_263,,forty thousand,Engineering,2024-08-02,Poor
+Employee_v2_264,,forty thousand,QA,2019-10-01,Poor
+Employee_v2_265,44.0,,Support,2022-05-23,Poor
+Employee_v2_266,,7416719,Engineering,2017-03-27,Good
+Employee_v2_267,,,Product,2017-01-06,Poor
+Employee_v2_268,,forty thousand,Engineering,2018-01-27,Poor
+Employee_v2_269,,sixty-five hundred thousand,Product,2023-05-06,Poor
+Employee_v2_270,,,Support,2016-01-25,Good
+Employee_v2_271,,6803480,QA,2019-03-21,Good
+Employee_v2_272,28.0,,QA,2023-08-10,Poor
+Employee_v2_273,,forty thousand,Product,2021-02-24,Poor
+Employee_v2_274,,,Product,2022-06-18,Good
+Employee_v2_275,34.0,4062205,Engineering,2022-10-02,Good
+Employee_v2_276,40.0,sixty-five hundred thousand,Product,2017-12-07,Poor
+Employee_v2_277,,,Product,2021-02-01,Good
+Employee_v2_278,,7118476,Support,2024-10-24,Good
+Employee_v2_279,,sixty-five hundred thousand,Support,2022-07-26,Good
+Employee_v2_280,37.0,forty thousand,Product,2022-02-12,Poor
+Employee_v2_281,,4357334,Engineering,2019-05-26,Good
+Employee_v2_282,29.0,forty thousand,Support,2020-12-06,Poor
+Employee_v2_283,,,Product,2023-07-12,Poor
+Employee_v2_284,44.0,forty thousand,Support,2018-04-16,Good
+Employee_v2_285,,6388491,Engineering,2023-03-19,Good
+Employee_v2_286,,4310451,QA,2021-07-30,Poor
+Employee_v2_287,37.0,forty thousand,QA,2016-08-29,Good
+Employee_v2_288,,sixty-five hundred thousand,Engineering,2023-01-03,Poor
+Employee_v2_289,32.0,,QA,2021-03-15,Good
+Employee_v2_290,35.0,7537345,Engineering,2016-10-16,Good
+Employee_v2_291,,,Support,2023-01-06,Good
+Employee_v2_292,37.0,sixty-five hundred thousand,QA,2022-12-13,Poor
+Employee_v2_293,,sixty-five hundred thousand,Product,2017-05-26,Good
+Employee_v2_294,,7839371,QA,2023-03-02,Poor
+Employee_v2_295,24.0,sixty-five hundred thousand,Engineering,2024-04-27,Poor
+Employee_v2_296,,8389506,Support,2018-04-03,Good
+Employee_v2_297,37.0,,Product,2021-06-17,Good
+Employee_v2_298,,,Engineering,2023-10-19,Poor
+Employee_v2_299,,5446928,Engineering,2017-12-12,Good
+Employee_v2_300,,6588467,Engineering,2020-12-04,Poor
+Employee_v2_301,31.0,7245110,QA,2018-03-09,Poor
+Employee_v2_302,,sixty-five hundred thousand,Support,2015-10-09,Good
+Employee_v2_303,43.0,forty thousand,Engineering,2023-05-19,Poor
+Employee_v2_304,33.0,,QA,2016-12-15,Good
+Employee_v2_305,28.0,,Support,2021-07-17,Good
+Employee_v2_306,,forty thousand,Support,2020-12-20,Good
+Employee_v2_307,,forty thousand,Product,2020-10-17,Good
+Employee_v2_308,,,Engineering,2020-07-12,Poor
+Employee_v2_309,41.0,,QA,2018-11-29,Good
+Employee_v2_310,,5333062,QA,2024-04-14,Good
+Employee_v2_311,35.0,sixty-five hundred thousand,QA,2018-01-04,Good
+Employee_v2_312,39.0,forty thousand,Product,2016-06-09,Good
+Employee_v2_313,,sixty-five hundred thousand,QA,2017-12-05,Poor
+Employee_v2_314,,6865203,Engineering,2019-03-13,Poor
+Employee_v2_315,,,Support,2018-01-24,Good
+Employee_v2_316,43.0,sixty-five hundred thousand,Engineering,2019-09-08,Good
+Employee_v2_317,,,Support,2017-05-20,Poor
+Employee_v2_318,42.0,,Product,2018-06-29,Poor
+Employee_v2_319,,sixty-five hundred thousand,Support,2017-08-05,Poor
+Employee_v2_320,38.0,sixty-five hundred thousand,Support,2016-11-04,Good
+Employee_v2_321,25.0,forty thousand,Support,2016-05-25,Poor
+Employee_v2_322,39.0,,Product,2024-05-23,Good
+Employee_v2_323,,8856205,Support,2021-11-16,Good
+Employee_v2_324,,forty thousand,QA,2017-04-24,Poor
+Employee_v2_325,33.0,,QA,2019-11-25,Good
+Employee_v2_326,24.0,forty thousand,Support,2020-10-19,Good
+Employee_v2_327,36.0,sixty-five hundred thousand,QA,2017-02-05,Poor
+Employee_v2_328,25.0,4462537,QA,2015-10-28,Poor
+Employee_v2_329,,forty thousand,Product,2019-11-04,Poor
+Employee_v2_330,45.0,7103120,Engineering,2019-01-10,Good
+Employee_v2_331,,forty thousand,QA,2017-05-05,Poor
+Employee_v2_332,42.0,sixty-five hundred thousand,QA,2022-05-05,Poor
+Employee_v2_333,40.0,5684693,Product,2017-05-09,Good
+Employee_v2_334,39.0,forty thousand,Product,2022-12-31,Poor
+Employee_v2_335,35.0,5613225,Product,2020-12-19,Poor
+Employee_v2_336,32.0,sixty-five hundred thousand,Product,2024-09-11,Good
+Employee_v2_337,42.0,sixty-five hundred thousand,Support,2017-05-03,Poor
+Employee_v2_338,,sixty-five hundred thousand,Product,2020-12-27,Poor
+Employee_v2_339,42.0,,Product,2022-02-12,Poor
+Employee_v2_340,31.0,sixty-five hundred thousand,Engineering,2022-11-19,Good
+Employee_v2_341,,forty thousand,Product,2024-02-23,Good
+Employee_v2_342,,4233367,QA,2016-09-22,Good
+Employee_v2_343,,6812372,Product,2024-11-12,Poor
+Employee_v2_344,33.0,forty thousand,Support,2023-05-29,Poor
+Employee_v2_345,36.0,4384300,Support,2018-03-16,Poor
+Employee_v2_346,,forty thousand,Product,2019-12-06,Good
+Employee_v2_347,,forty thousand,Engineering,2023-03-30,Good
+Employee_v2_348,,,Support,2021-12-01,Poor
+Employee_v2_349,,forty thousand,Engineering,2016-01-08,Good
+Employee_v2_350,27.0,forty thousand,QA,2016-12-26,Poor
+Employee_v2_351,,8962097,Product,2017-10-28,Poor
+Employee_v2_352,42.0,forty thousand,Support,2022-03-18,Poor
+Employee_v2_353,30.0,4709551,QA,2021-12-17,Poor
+Employee_v2_354,43.0,forty thousand,Engineering,2022-04-03,Good
+Employee_v2_355,32.0,sixty-five hundred thousand,Engineering,2018-01-22,Good
+Employee_v2_356,45.0,4926926,QA,2021-09-11,Good
+Employee_v2_357,42.0,sixty-five hundred thousand,Support,2017-08-26,Good
+Employee_v2_358,38.0,forty thousand,Product,2023-07-26,Good
+Employee_v2_359,37.0,forty thousand,Product,2020-06-30,Good
+Employee_v2_360,38.0,4678128,QA,2016-11-20,Good
+Employee_v2_361,45.0,,Support,2024-05-08,Poor
+Employee_v2_362,,,Engineering,2021-08-20,Good
+Employee_v2_363,,forty thousand,Support,2022-04-06,Poor
+Employee_v2_364,,sixty-five hundred thousand,Engineering,2019-12-14,Poor
+Employee_v2_365,,7033675,Engineering,2021-02-04,Good
+Employee_v2_366,,forty thousand,Support,2019-12-30,Poor
+Employee_v2_367,,sixty-five hundred thousand,Support,2020-01-28,Poor
+Employee_v2_368,43.0,8823939,Engineering,2020-09-28,Good
+Employee_v2_369,,,QA,2022-04-23,Good
+Employee_v2_370,29.0,,QA,2024-05-07,Good
+Employee_v2_371,,forty thousand,Engineering,2018-11-21,Poor
+Employee_v2_372,40.0,,Support,2018-05-10,Good
+Employee_v2_373,,7276808,Engineering,2020-10-14,Good
+Employee_v2_374,,forty thousand,QA,2020-03-29,Good
+Employee_v2_375,,forty thousand,Product,2017-12-14,Good
+Employee_v2_376,27.0,sixty-five hundred thousand,Support,2020-07-21,Good
+Employee_v2_377,36.0,6116654,Product,2023-03-13,Good
+Employee_v2_378,37.0,,Product,2019-05-14,Poor
+Employee_v2_379,36.0,forty thousand,Engineering,2021-02-17,Poor
+Employee_v2_380,,6183022,Engineering,2021-07-23,Poor
+Employee_v2_381,,forty thousand,Support,2018-05-05,Good
+Employee_v2_382,,,Engineering,2018-12-18,Good
+Employee_v2_383,34.0,sixty-five hundred thousand,Engineering,2017-10-19,Poor
+Employee_v2_384,32.0,6188758,Product,2017-03-13,Good
+Employee_v2_385,26.0,7106769,QA,2020-04-18,Good
+Employee_v2_386,41.0,,Engineering,2015-07-23,Poor
+Employee_v2_387,,forty thousand,Engineering,2023-11-13,Good
+Employee_v2_388,,forty thousand,Product,2020-06-07,Poor
+Employee_v2_389,,forty thousand,Engineering,2015-04-29,Good
+Employee_v2_390,,5214409,Support,2016-08-31,Good
+Employee_v2_391,27.0,,Support,2019-02-25,Good
+Employee_v2_392,,sixty-five hundred thousand,Product,2022-09-10,Poor
+Employee_v2_393,,7420614,Engineering,2018-12-02,Good
+Employee_v2_394,38.0,sixty-five hundred thousand,Engineering,2018-12-15,Good
+Employee_v2_395,,sixty-five hundred thousand,Support,2021-08-09,Poor
+Employee_v2_396,44.0,5235867,Engineering,2022-05-22,Poor
+Employee_v2_397,45.0,,QA,2018-08-21,Poor
+Employee_v2_398,,,Engineering,2021-10-09,Poor
+Employee_v2_399,31.0,sixty-five hundred thousand,Support,2024-02-09,Good
+Employee_v2_400,25.0,6589374,Product,2016-12-13,Poor
+Employee_v2_401,,7761855,Engineering,2024-01-16,Good
+Employee_v2_402,43.0,sixty-five hundred thousand,Product,2024-06-15,Poor
+Employee_v2_403,,,Support,2023-08-29,Good
+Employee_v2_404,38.0,sixty-five hundred thousand,Support,2016-04-18,Poor
+Employee_v2_405,,forty thousand,Engineering,2015-09-27,Good
+Employee_v2_406,36.0,sixty-five hundred thousand,Support,2024-10-31,Good
+Employee_v2_407,44.0,sixty-five hundred thousand,QA,2015-05-27,Poor
+Employee_v2_408,,8949239,Product,2016-12-05,Poor
+Employee_v2_409,31.0,forty thousand,Support,2016-03-14,Good
+Employee_v2_410,,4877815,Product,2020-10-16,Poor
+Employee_v2_411,37.0,forty thousand,Engineering,2019-07-23,Poor
+Employee_v2_412,31.0,,Engineering,2022-11-29,Good
+Employee_v2_413,,sixty-five hundred thousand,Support,2019-10-01,Good
+Employee_v2_414,24.0,sixty-five hundred thousand,QA,2023-04-05,Good
+Employee_v2_415,27.0,forty thousand,Engineering,2024-02-07,Good
+Employee_v2_416,,sixty-five hundred thousand,Product,2019-09-03,Good
+Employee_v2_417,,forty thousand,Support,2016-02-25,Good
+Employee_v2_418,,,QA,2016-12-17,Good
+Employee_v2_419,,forty thousand,Engineering,2024-10-15,Poor
+Employee_v2_420,24.0,7218492,Support,2021-05-23,Poor
+Employee_v2_421,38.0,sixty-five hundred thousand,Engineering,2023-02-20,Poor
+Employee_v2_422,,6687515,QA,2021-12-30,Good
+Employee_v2_423,31.0,8496471,Support,2015-03-14,Good
+Employee_v2_424,24.0,4862927,Product,2019-07-28,Poor
+Employee_v2_425,30.0,4202495,QA,2015-07-13,Poor
+Employee_v2_426,,,Product,2022-04-08,Good
+Employee_v2_427,34.0,sixty-five hundred thousand,QA,2017-10-03,Poor
+Employee_v2_428,40.0,8545465,Product,2020-02-10,Poor
+Employee_v2_429,42.0,7804980,Product,2017-10-03,Poor
+Employee_v2_430,,forty thousand,Support,2022-08-22,Poor
+Employee_v2_431,32.0,6667759,Engineering,2022-02-26,Good
+Employee_v2_432,,5899374,Support,2015-10-08,Poor
+Employee_v2_433,,forty thousand,Engineering,2015-02-07,Good
+Employee_v2_434,,sixty-five hundred thousand,Support,2021-09-29,Poor
+Employee_v2_435,,7542845,Product,2022-06-14,Poor
+Employee_v2_436,,forty thousand,Engineering,2023-05-29,Poor
+Employee_v2_437,,7075243,Support,2021-02-13,Good
+Employee_v2_438,31.0,sixty-five hundred thousand,Support,2015-10-03,Good
+Employee_v2_439,34.0,forty thousand,Support,2024-07-28,Poor
+Employee_v2_440,39.0,8693092,Product,2022-11-26,Good
+Employee_v2_441,,forty thousand,QA,2022-03-04,Good
+Employee_v2_442,,sixty-five hundred thousand,Support,2020-05-27,Poor
+Employee_v2_443,,sixty-five hundred thousand,QA,2017-11-10,Poor
+Employee_v2_444,25.0,forty thousand,Support,2017-01-22,Good
+Employee_v2_445,30.0,6399596,Engineering,2020-03-11,Good
+Employee_v2_446,,forty thousand,QA,2018-02-11,Poor
+Employee_v2_447,44.0,sixty-five hundred thousand,Product,2020-04-07,Good
+Employee_v2_448,,sixty-five hundred thousand,Support,2020-08-19,Good
+Employee_v2_449,34.0,forty thousand,Support,2022-07-12,Poor
+Employee_v2_450,,6578503,Product,2018-09-22,Good
+Employee_v2_451,,,Engineering,2019-06-29,Poor
+Employee_v2_452,38.0,5647932,QA,2018-07-05,Good
+Employee_v2_453,,forty thousand,Product,2020-09-15,Good
+Employee_v2_454,27.0,sixty-five hundred thousand,Product,2015-10-10,Poor
+Employee_v2_455,,7715671,Product,2019-07-05,Poor
+Employee_v2_456,,8560306,Engineering,2024-04-23,Good
+Employee_v2_457,28.0,5406000,QA,2020-10-19,Poor
+Employee_v2_458,,sixty-five hundred thousand,QA,2015-09-26,Poor
+Employee_v2_459,,forty thousand,Product,2015-02-18,Good
+Employee_v2_460,,,Engineering,2019-11-29,Poor
+Employee_v2_461,,sixty-five hundred thousand,QA,2015-10-20,Good
+Employee_v2_462,,4040931,Product,2024-05-05,Poor
+Employee_v2_463,,,Support,2022-04-04,Good
+Employee_v2_464,,7571505,Support,2019-12-15,Poor
+Employee_v2_465,29.0,sixty-five hundred thousand,Support,2023-04-06,Poor
+Employee_v2_466,39.0,sixty-five hundred thousand,Support,2022-10-15,Good
+Employee_v2_467,,sixty-five hundred thousand,Product,2019-07-11,Poor
+Employee_v2_468,,,Support,2016-08-28,Good
+Employee_v2_469,39.0,6355287,Support,2016-03-07,Good
+Employee_v2_470,41.0,,Support,2023-03-30,Good
+Employee_v2_471,,6299503,Support,2022-09-05,Good
+Employee_v2_472,42.0,sixty-five hundred thousand,Product,2024-11-14,Good
+Employee_v2_473,,forty thousand,QA,2022-08-11,Good
+Employee_v2_474,,7794755,QA,2016-01-07,Poor
+Employee_v2_475,,forty thousand,Product,2019-12-29,Good
+Employee_v2_476,33.0,sixty-five hundred thousand,Support,2019-11-01,Good
+Employee_v2_477,35.0,sixty-five hundred thousand,Product,2022-06-17,Good
+Employee_v2_478,26.0,forty thousand,Engineering,2018-11-29,Good
+Employee_v2_479,,forty thousand,Support,2015-04-26,Good
+Employee_v2_480,45.0,forty thousand,Product,2022-01-26,Good
+Employee_v2_481,,8021512,Engineering,2024-12-02,Poor
+Employee_v2_482,,5251279,Product,2017-07-22,Good
+Employee_v2_483,,8118050,Product,2018-02-13,Good
+Employee_v2_484,27.0,,Support,2024-10-17,Good
+Employee_v2_485,40.0,5406064,QA,2016-08-18,Poor
+Employee_v2_486,,forty thousand,Product,2024-07-30,Good
+Employee_v2_487,,forty thousand,Product,2017-05-09,Poor
+Employee_v2_488,,sixty-five hundred thousand,QA,2015-02-16,Good
+Employee_v2_489,,forty thousand,Engineering,2017-05-26,Poor
+Employee_v2_490,,forty thousand,QA,2018-03-08,Poor
+Employee_v2_491,41.0,forty thousand,Support,2021-04-24,Poor
+Employee_v2_492,28.0,sixty-five hundred thousand,Support,2019-07-14,Poor
+Employee_v2_493,,7956070,QA,2015-10-18,Poor
+Employee_v2_494,,7314501,QA,2020-04-12,Good
+Employee_v2_495,38.0,sixty-five hundred thousand,Support,2021-04-23,Good
+Employee_v2_496,24.0,,Support,2024-05-11,Poor
+Employee_v2_497,,sixty-five hundred thousand,Product,2015-08-07,Poor
+Employee_v2_498,,4332080,Engineering,2024-10-19,Good
+Employee_v2_499,29.0,forty thousand,QA,2020-03-11,Poor
+Employee_v2_500,,,QA,2023-03-11,Good

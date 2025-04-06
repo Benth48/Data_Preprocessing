@@ -1,0 +1,501 @@
+Name,Age,Salary,Department,Joined_Date,Performance
+Employee_v1_001,,sixty-five hundred thousand,HR,2018-07-13,Poor
+Employee_v1_002,39.0,5278735,Marketing,2016-09-08,Good
+Employee_v1_003,30.0,,Finance,2017-11-10,Good
+Employee_v1_004,30.0,6931036,Marketing,2022-11-04,Good
+Employee_v1_005,,,Marketing,2019-09-23,Poor
+Employee_v1_006,27.0,forty thousand,IT,2016-01-31,Good
+Employee_v1_007,,forty thousand,IT,2023-03-08,Poor
+Employee_v1_008,,,HR,2022-06-10,Good
+Employee_v1_009,,,Finance,2016-03-31,Good
+Employee_v1_010,42.0,,Finance,2015-04-30,Good
+Employee_v1_011,,forty thousand,Finance,2021-05-31,Good
+Employee_v1_012,44.0,forty thousand,HR,2017-12-22,Good
+Employee_v1_013,,forty thousand,HR,2019-05-02,Poor
+Employee_v1_014,,sixty-five hundred thousand,Finance,2020-08-15,Poor
+Employee_v1_015,,8370123,Finance,2022-06-16,Good
+Employee_v1_016,,sixty-five hundred thousand,Finance,2015-10-07,Poor
+Employee_v1_017,38.0,,Marketing,2023-01-22,Poor
+Employee_v1_018,,sixty-five hundred thousand,IT,2019-03-13,Poor
+Employee_v1_019,37.0,forty thousand,IT,2019-07-13,Good
+Employee_v1_020,,sixty-five hundred thousand,HR,2021-08-29,Poor
+Employee_v1_021,,,IT,2019-01-11,Good
+Employee_v1_022,38.0,sixty-five hundred thousand,Marketing,2019-11-11,Poor
+Employee_v1_023,33.0,sixty-five hundred thousand,Marketing,2015-12-04,Good
+Employee_v1_024,,,IT,2021-04-18,Good
+Employee_v1_025,,8383048,Marketing,2018-04-06,Poor
+Employee_v1_026,,sixty-five hundred thousand,Marketing,2020-03-15,Good
+Employee_v1_027,,forty thousand,IT,2021-01-16,Poor
+Employee_v1_028,,,Finance,2017-08-22,Good
+Employee_v1_029,31.0,,Marketing,2018-12-28,Good
+Employee_v1_030,45.0,6975170,Marketing,2022-10-17,Poor
+Employee_v1_031,34.0,8368929,Marketing,2017-06-24,Poor
+Employee_v1_032,43.0,forty thousand,IT,2017-06-26,Good
+Employee_v1_033,,,HR,2019-02-20,Poor
+Employee_v1_034,43.0,forty thousand,Marketing,2019-05-02,Poor
+Employee_v1_035,26.0,8650253,Finance,2019-05-09,Good
+Employee_v1_036,40.0,forty thousand,HR,2016-05-01,Good
+Employee_v1_037,30.0,4454891,HR,2016-05-06,Good
+Employee_v1_038,,sixty-five hundred thousand,Marketing,2016-10-29,Good
+Employee_v1_039,43.0,,Finance,2015-06-13,Poor
+Employee_v1_040,31.0,,Finance,2020-12-23,Good
+Employee_v1_041,,sixty-five hundred thousand,IT,2018-09-09,Poor
+Employee_v1_042,,,IT,2021-10-31,Poor
+Employee_v1_043,39.0,,Marketing,2020-08-25,Poor
+Employee_v1_044,43.0,forty thousand,HR,2020-08-15,Poor
+Employee_v1_045,28.0,,HR,2024-06-16,Poor
+Employee_v1_046,,,Finance,2020-12-06,Poor
+Employee_v1_047,29.0,forty thousand,HR,2017-11-16,Good
+Employee_v1_048,,,IT,2015-04-23,Poor
+Employee_v1_049,41.0,,HR,2018-07-12,Good
+Employee_v1_050,,5528218,IT,2018-12-03,Good
+Employee_v1_051,,forty thousand,HR,2022-08-12,Good
+Employee_v1_052,40.0,sixty-five hundred thousand,HR,2019-03-22,Poor
+Employee_v1_053,30.0,8575630,Marketing,2024-10-04,Poor
+Employee_v1_054,,4654692,HR,2016-12-30,Good
+Employee_v1_055,,,Finance,2022-06-08,Good
+Employee_v1_056,40.0,sixty-five hundred thousand,HR,2023-04-26,Poor
+Employee_v1_057,,7150338,Marketing,2017-02-06,Poor
+Employee_v1_058,43.0,forty thousand,Marketing,2015-08-08,Good
+Employee_v1_059,31.0,4897421,IT,2022-02-01,Poor
+Employee_v1_060,38.0,sixty-five hundred thousand,Marketing,2015-11-07,Good
+Employee_v1_061,,sixty-five hundred thousand,Marketing,2017-01-15,Good
+Employee_v1_062,37.0,forty thousand,Marketing,2024-03-03,Good
+Employee_v1_063,,7979988,IT,2019-02-15,Good
+Employee_v1_064,39.0,,HR,2015-03-14,Poor
+Employee_v1_065,,,IT,2023-05-10,Good
+Employee_v1_066,,forty thousand,Marketing,2020-10-30,Good
+Employee_v1_067,,forty thousand,HR,2019-06-02,Poor
+Employee_v1_068,,4766338,Marketing,2015-09-30,Poor
+Employee_v1_069,,4647055,HR,2017-02-06,Good
+Employee_v1_070,,5220597,IT,2021-05-04,Poor
+Employee_v1_071,25.0,,HR,2021-07-05,Poor
+Employee_v1_072,24.0,,HR,2021-10-13,Good
+Employee_v1_073,,forty thousand,Finance,2022-05-22,Good
+Employee_v1_074,27.0,sixty-five hundred thousand,Finance,2021-02-09,Good
+Employee_v1_075,45.0,7949829,IT,2016-09-21,Good
+Employee_v1_076,43.0,,HR,2020-06-15,Good
+Employee_v1_077,,,Marketing,2023-05-19,Poor
+Employee_v1_078,33.0,sixty-five hundred thousand,HR,2024-09-08,Good
+Employee_v1_079,24.0,8536150,IT,2022-07-15,Poor
+Employee_v1_080,33.0,5712353,Finance,2019-05-31,Poor
+Employee_v1_081,,,IT,2015-09-06,Good
+Employee_v1_082,40.0,forty thousand,HR,2023-08-15,Good
+Employee_v1_083,,4480015,Marketing,2017-04-04,Good
+Employee_v1_084,,5353275,IT,2024-08-18,Poor
+Employee_v1_085,,forty thousand,Marketing,2020-09-27,Poor
+Employee_v1_086,45.0,,Marketing,2024-04-09,Good
+Employee_v1_087,,,HR,2020-11-28,Poor
+Employee_v1_088,42.0,,Marketing,2020-10-03,Good
+Employee_v1_089,42.0,sixty-five hundred thousand,IT,2023-10-02,Poor
+Employee_v1_090,,,Finance,2024-07-11,Poor
+Employee_v1_091,24.0,forty thousand,Marketing,2023-03-07,Good
+Employee_v1_092,,sixty-five hundred thousand,HR,2023-09-16,Good
+Employee_v1_093,,forty thousand,Finance,2024-09-20,Poor
+Employee_v1_094,,,IT,2021-08-28,Good
+Employee_v1_095,,forty thousand,HR,2023-12-21,Good
+Employee_v1_096,41.0,sixty-five hundred thousand,IT,2023-02-17,Poor
+Employee_v1_097,29.0,sixty-five hundred thousand,HR,2022-03-13,Poor
+Employee_v1_098,28.0,forty thousand,HR,2021-12-23,Good
+Employee_v1_099,,forty thousand,IT,2023-07-04,Good
+Employee_v1_100,30.0,forty thousand,Marketing,2023-12-27,Good
+Employee_v1_101,24.0,,IT,2022-11-21,Good
+Employee_v1_102,,,Finance,2022-05-29,Poor
+Employee_v1_103,24.0,6517872,IT,2018-10-21,Good
+Employee_v1_104,,4496943,Finance,2018-07-05,Poor
+Employee_v1_105,33.0,sixty-five hundred thousand,IT,2015-06-09,Good
+Employee_v1_106,,6178568,Finance,2019-06-21,Poor
+Employee_v1_107,24.0,sixty-five hundred thousand,Marketing,2024-08-13,Poor
+Employee_v1_108,39.0,4972780,HR,2020-12-25,Good
+Employee_v1_109,38.0,forty thousand,HR,2020-10-05,Poor
+Employee_v1_110,,,HR,2020-07-28,Good
+Employee_v1_111,27.0,sixty-five hundred thousand,Finance,2015-07-16,Good
+Employee_v1_112,36.0,sixty-five hundred thousand,Marketing,2023-04-12,Good
+Employee_v1_113,,forty thousand,HR,2017-09-27,Poor
+Employee_v1_114,,,Marketing,2020-02-23,Good
+Employee_v1_115,,5057114,Marketing,2016-07-20,Good
+Employee_v1_116,,forty thousand,Finance,2016-04-24,Poor
+Employee_v1_117,36.0,forty thousand,Marketing,2016-08-30,Poor
+Employee_v1_118,24.0,sixty-five hundred thousand,Finance,2024-11-23,Poor
+Employee_v1_119,,sixty-five hundred thousand,Marketing,2017-12-01,Good
+Employee_v1_120,24.0,forty thousand,IT,2024-09-10,Poor
+Employee_v1_121,,forty thousand,Marketing,2023-11-20,Poor
+Employee_v1_122,30.0,,IT,2015-05-31,Poor
+Employee_v1_123,,forty thousand,HR,2017-07-06,Good
+Employee_v1_124,32.0,forty thousand,IT,2018-03-06,Good
+Employee_v1_125,,6407212,IT,2023-11-09,Poor
+Employee_v1_126,,8073434,HR,2019-02-27,Good
+Employee_v1_127,33.0,8444567,HR,2019-12-03,Poor
+Employee_v1_128,31.0,,IT,2020-07-15,Poor
+Employee_v1_129,,sixty-five hundred thousand,Marketing,2024-02-22,Poor
+Employee_v1_130,,6266403,HR,2022-09-24,Poor
+Employee_v1_131,,4544731,Finance,2019-02-21,Poor
+Employee_v1_132,,6287030,Finance,2021-06-09,Poor
+Employee_v1_133,41.0,5328964,Finance,2019-02-28,Good
+Employee_v1_134,40.0,sixty-five hundred thousand,IT,2015-07-13,Good
+Employee_v1_135,24.0,,IT,2018-09-06,Poor
+Employee_v1_136,,forty thousand,HR,2016-12-21,Poor
+Employee_v1_137,39.0,sixty-five hundred thousand,Finance,2021-03-16,Poor
+Employee_v1_138,44.0,7877180,Marketing,2016-09-22,Poor
+Employee_v1_139,,4684209,HR,2021-07-19,Poor
+Employee_v1_140,,sixty-five hundred thousand,Marketing,2021-02-09,Poor
+Employee_v1_141,24.0,6369444,Marketing,2020-02-19,Poor
+Employee_v1_142,,,Finance,2019-07-15,Good
+Employee_v1_143,26.0,forty thousand,Marketing,2024-06-13,Good
+Employee_v1_144,,sixty-five hundred thousand,IT,2021-07-31,Poor
+Employee_v1_145,,forty thousand,Finance,2024-09-11,Poor
+Employee_v1_146,25.0,sixty-five hundred thousand,Finance,2017-10-25,Good
+Employee_v1_147,,forty thousand,Marketing,2022-11-15,Poor
+Employee_v1_148,,5527101,Finance,2021-03-05,Good
+Employee_v1_149,,sixty-five hundred thousand,Marketing,2018-10-01,Poor
+Employee_v1_150,35.0,,Finance,2022-05-09,Good
+Employee_v1_151,31.0,,Finance,2016-12-18,Good
+Employee_v1_152,36.0,sixty-five hundred thousand,Finance,2020-10-27,Good
+Employee_v1_153,37.0,4099175,Marketing,2018-09-09,Good
+Employee_v1_154,,8391646,Marketing,2019-12-14,Good
+Employee_v1_155,,sixty-five hundred thousand,IT,2023-04-12,Good
+Employee_v1_156,39.0,forty thousand,Finance,2023-10-01,Poor
+Employee_v1_157,27.0,,HR,2018-03-10,Good
+Employee_v1_158,,sixty-five hundred thousand,Marketing,2018-06-18,Good
+Employee_v1_159,28.0,sixty-five hundred thousand,HR,2022-09-11,Good
+Employee_v1_160,,,IT,2016-09-25,Good
+Employee_v1_161,38.0,,IT,2023-09-17,Poor
+Employee_v1_162,25.0,sixty-five hundred thousand,HR,2021-04-24,Good
+Employee_v1_163,,,HR,2023-01-28,Poor
+Employee_v1_164,38.0,,Marketing,2019-12-18,Good
+Employee_v1_165,,6910043,HR,2023-01-28,Good
+Employee_v1_166,41.0,6540467,Finance,2024-10-22,Poor
+Employee_v1_167,,,Marketing,2020-05-26,Good
+Employee_v1_168,,,HR,2020-02-01,Poor
+Employee_v1_169,37.0,sixty-five hundred thousand,HR,2021-02-16,Good
+Employee_v1_170,,,HR,2022-05-04,Poor
+Employee_v1_171,,7422025,Finance,2022-12-29,Good
+Employee_v1_172,,,IT,2016-09-29,Good
+Employee_v1_173,,,HR,2022-04-23,Poor
+Employee_v1_174,,4131106,HR,2018-11-14,Good
+Employee_v1_175,27.0,sixty-five hundred thousand,IT,2024-03-27,Good
+Employee_v1_176,,sixty-five hundred thousand,Marketing,2017-09-14,Poor
+Employee_v1_177,29.0,,Finance,2021-04-01,Poor
+Employee_v1_178,,sixty-five hundred thousand,HR,2016-11-29,Poor
+Employee_v1_179,32.0,sixty-five hundred thousand,Finance,2023-10-15,Poor
+Employee_v1_180,30.0,forty thousand,Marketing,2019-12-24,Good
+Employee_v1_181,32.0,forty thousand,Marketing,2017-10-11,Poor
+Employee_v1_182,33.0,forty thousand,IT,2015-12-04,Good
+Employee_v1_183,,,Marketing,2015-09-29,Good
+Employee_v1_184,28.0,4864609,Marketing,2019-08-16,Good
+Employee_v1_185,37.0,forty thousand,HR,2021-02-16,Good
+Employee_v1_186,26.0,6143470,IT,2020-03-24,Good
+Employee_v1_187,24.0,sixty-five hundred thousand,Marketing,2020-01-02,Good
+Employee_v1_188,,,Marketing,2023-04-02,Good
+Employee_v1_189,,sixty-five hundred thousand,Marketing,2023-08-20,Poor
+Employee_v1_190,31.0,7067759,IT,2018-05-24,Poor
+Employee_v1_191,45.0,sixty-five hundred thousand,HR,2023-11-19,Poor
+Employee_v1_192,26.0,,Marketing,2021-07-23,Poor
+Employee_v1_193,,sixty-five hundred thousand,Finance,2023-04-07,Poor
+Employee_v1_194,,7861030,HR,2023-08-29,Good
+Employee_v1_195,,forty thousand,Marketing,2016-06-10,Poor
+Employee_v1_196,37.0,4066120,IT,2021-03-05,Poor
+Employee_v1_197,29.0,sixty-five hundred thousand,IT,2021-07-19,Good
+Employee_v1_198,,forty thousand,Finance,2023-06-26,Good
+Employee_v1_199,43.0,forty thousand,IT,2018-09-12,Poor
+Employee_v1_200,,4256570,IT,2019-09-27,Poor
+Employee_v1_201,45.0,sixty-five hundred thousand,HR,2015-02-21,Good
+Employee_v1_202,35.0,8499976,HR,2020-03-06,Poor
+Employee_v1_203,,sixty-five hundred thousand,Finance,2017-08-09,Good
+Employee_v1_204,,forty thousand,Finance,2022-08-12,Poor
+Employee_v1_205,,5356924,Marketing,2016-11-22,Good
+Employee_v1_206,28.0,forty thousand,Marketing,2019-11-30,Poor
+Employee_v1_207,29.0,7838088,IT,2018-03-13,Good
+Employee_v1_208,30.0,sixty-five hundred thousand,Finance,2023-11-26,Good
+Employee_v1_209,,,Marketing,2019-11-16,Good
+Employee_v1_210,,,HR,2019-03-25,Poor
+Employee_v1_211,,,IT,2015-05-28,Poor
+Employee_v1_212,,,IT,2019-10-18,Good
+Employee_v1_213,45.0,forty thousand,Marketing,2017-12-02,Poor
+Employee_v1_214,,forty thousand,HR,2019-06-10,Poor
+Employee_v1_215,,4816541,Finance,2017-08-07,Good
+Employee_v1_216,26.0,sixty-five hundred thousand,HR,2021-12-05,Good
+Employee_v1_217,,,HR,2021-07-11,Good
+Employee_v1_218,43.0,6626246,IT,2015-06-20,Poor
+Employee_v1_219,,sixty-five hundred thousand,IT,2023-01-16,Poor
+Employee_v1_220,44.0,forty thousand,HR,2024-04-23,Good
+Employee_v1_221,39.0,forty thousand,Finance,2016-03-12,Poor
+Employee_v1_222,45.0,,Finance,2015-10-23,Good
+Employee_v1_223,30.0,4815086,IT,2024-06-13,Poor
+Employee_v1_224,36.0,,Finance,2020-09-27,Good
+Employee_v1_225,,sixty-five hundred thousand,HR,2016-10-02,Good
+Employee_v1_226,,forty thousand,Marketing,2017-05-20,Good
+Employee_v1_227,,forty thousand,Marketing,2024-09-13,Poor
+Employee_v1_228,40.0,,IT,2023-11-05,Good
+Employee_v1_229,32.0,sixty-five hundred thousand,Marketing,2016-04-15,Poor
+Employee_v1_230,28.0,8160517,Finance,2018-08-27,Good
+Employee_v1_231,25.0,forty thousand,IT,2023-02-14,Poor
+Employee_v1_232,,7811699,Marketing,2019-11-28,Poor
+Employee_v1_233,27.0,,Marketing,2022-10-16,Poor
+Employee_v1_234,,,IT,2022-10-28,Poor
+Employee_v1_235,,forty thousand,Marketing,2019-09-22,Good
+Employee_v1_236,31.0,sixty-five hundred thousand,Marketing,2016-07-28,Poor
+Employee_v1_237,31.0,7037456,HR,2018-09-07,Good
+Employee_v1_238,,7006356,IT,2016-02-14,Poor
+Employee_v1_239,,sixty-five hundred thousand,Finance,2022-11-18,Poor
+Employee_v1_240,,,HR,2024-07-17,Good
+Employee_v1_241,26.0,sixty-five hundred thousand,Marketing,2019-01-07,Good
+Employee_v1_242,,5553882,Finance,2019-01-19,Poor
+Employee_v1_243,,forty thousand,HR,2024-06-21,Poor
+Employee_v1_244,,4180614,Marketing,2019-11-19,Poor
+Employee_v1_245,45.0,7269484,Marketing,2018-08-23,Good
+Employee_v1_246,37.0,7696596,Marketing,2015-11-06,Good
+Employee_v1_247,,,HR,2023-06-22,Poor
+Employee_v1_248,41.0,sixty-five hundred thousand,HR,2016-08-15,Poor
+Employee_v1_249,34.0,,Marketing,2016-12-01,Good
+Employee_v1_250,41.0,forty thousand,HR,2019-11-16,Poor
+Employee_v1_251,38.0,forty thousand,IT,2022-10-03,Good
+Employee_v1_252,,sixty-five hundred thousand,HR,2018-05-18,Good
+Employee_v1_253,29.0,forty thousand,Finance,2021-11-12,Poor
+Employee_v1_254,31.0,8275029,HR,2016-09-29,Poor
+Employee_v1_255,28.0,sixty-five hundred thousand,Finance,2015-02-05,Good
+Employee_v1_256,35.0,,Finance,2020-04-26,Good
+Employee_v1_257,32.0,,HR,2022-02-07,Good
+Employee_v1_258,,,Marketing,2021-10-30,Poor
+Employee_v1_259,39.0,sixty-five hundred thousand,IT,2015-07-10,Poor
+Employee_v1_260,,,HR,2018-10-19,Good
+Employee_v1_261,44.0,,HR,2017-01-11,Poor
+Employee_v1_262,25.0,sixty-five hundred thousand,Marketing,2023-12-08,Poor
+Employee_v1_263,26.0,,Finance,2023-09-20,Good
+Employee_v1_264,,,Finance,2018-11-26,Good
+Employee_v1_265,,5778243,Finance,2015-12-20,Poor
+Employee_v1_266,,sixty-five hundred thousand,HR,2024-10-25,Good
+Employee_v1_267,,8643941,HR,2020-05-19,Good
+Employee_v1_268,40.0,forty thousand,HR,2022-02-24,Poor
+Employee_v1_269,,forty thousand,IT,2015-03-17,Good
+Employee_v1_270,32.0,sixty-five hundred thousand,IT,2015-05-01,Poor
+Employee_v1_271,35.0,,IT,2021-12-25,Good
+Employee_v1_272,25.0,sixty-five hundred thousand,Marketing,2021-01-09,Poor
+Employee_v1_273,43.0,6221622,HR,2023-11-26,Poor
+Employee_v1_274,,forty thousand,Finance,2022-10-25,Poor
+Employee_v1_275,25.0,,HR,2023-09-09,Poor
+Employee_v1_276,,forty thousand,Finance,2023-11-10,Good
+Employee_v1_277,,6671438,Finance,2019-02-21,Good
+Employee_v1_278,,4332250,Finance,2017-01-19,Poor
+Employee_v1_279,,sixty-five hundred thousand,IT,2024-11-19,Good
+Employee_v1_280,,sixty-five hundred thousand,HR,2021-02-05,Poor
+Employee_v1_281,,,IT,2019-09-24,Good
+Employee_v1_282,31.0,sixty-five hundred thousand,IT,2020-08-31,Poor
+Employee_v1_283,,sixty-five hundred thousand,HR,2015-02-26,Good
+Employee_v1_284,,,IT,2019-08-23,Good
+Employee_v1_285,45.0,,HR,2016-04-01,Poor
+Employee_v1_286,29.0,sixty-five hundred thousand,Marketing,2020-05-16,Good
+Employee_v1_287,,7751823,IT,2024-04-22,Good
+Employee_v1_288,27.0,forty thousand,Finance,2015-08-31,Good
+Employee_v1_289,,sixty-five hundred thousand,Marketing,2016-07-05,Good
+Employee_v1_290,32.0,5351853,IT,2017-09-10,Good
+Employee_v1_291,28.0,forty thousand,HR,2018-10-26,Poor
+Employee_v1_292,27.0,sixty-five hundred thousand,Marketing,2016-03-25,Poor
+Employee_v1_293,25.0,,Marketing,2020-07-25,Good
+Employee_v1_294,,sixty-five hundred thousand,HR,2020-10-21,Poor
+Employee_v1_295,,forty thousand,IT,2015-04-06,Poor
+Employee_v1_296,29.0,7301222,IT,2024-06-21,Poor
+Employee_v1_297,35.0,sixty-five hundred thousand,HR,2019-07-14,Poor
+Employee_v1_298,,,IT,2016-12-31,Good
+Employee_v1_299,,forty thousand,Finance,2018-09-27,Poor
+Employee_v1_300,41.0,,Marketing,2018-04-07,Poor
+Employee_v1_301,,5805205,HR,2022-06-08,Poor
+Employee_v1_302,,5890049,Finance,2016-03-20,Good
+Employee_v1_303,33.0,,HR,2016-10-25,Poor
+Employee_v1_304,,sixty-five hundred thousand,Marketing,2024-07-03,Poor
+Employee_v1_305,,7054819,Marketing,2022-04-22,Poor
+Employee_v1_306,,,HR,2020-06-30,Good
+Employee_v1_307,45.0,forty thousand,IT,2016-11-07,Poor
+Employee_v1_308,24.0,sixty-five hundred thousand,HR,2017-08-09,Poor
+Employee_v1_309,36.0,sixty-five hundred thousand,IT,2024-10-19,Poor
+Employee_v1_310,37.0,5089972,IT,2018-07-25,Good
+Employee_v1_311,25.0,,HR,2022-09-01,Poor
+Employee_v1_312,,forty thousand,Marketing,2024-03-01,Poor
+Employee_v1_313,,forty thousand,Marketing,2024-06-23,Good
+Employee_v1_314,34.0,sixty-five hundred thousand,Finance,2020-10-17,Poor
+Employee_v1_315,28.0,7001383,Marketing,2015-12-31,Good
+Employee_v1_316,,sixty-five hundred thousand,Marketing,2015-08-01,Good
+Employee_v1_317,30.0,7639269,Finance,2016-05-27,Good
+Employee_v1_318,34.0,5106119,HR,2017-12-22,Good
+Employee_v1_319,24.0,8996025,IT,2021-09-16,Poor
+Employee_v1_320,,forty thousand,IT,2020-02-21,Poor
+Employee_v1_321,,,Finance,2019-12-29,Good
+Employee_v1_322,,4104079,Finance,2019-10-22,Good
+Employee_v1_323,43.0,,HR,2018-07-18,Good
+Employee_v1_324,37.0,7997608,Finance,2016-06-13,Poor
+Employee_v1_325,,4868319,Marketing,2015-07-16,Poor
+Employee_v1_326,,8047259,IT,2017-08-23,Good
+Employee_v1_327,,6620180,HR,2023-12-12,Good
+Employee_v1_328,,4471015,Marketing,2021-07-12,Good
+Employee_v1_329,29.0,forty thousand,Marketing,2023-03-19,Good
+Employee_v1_330,,sixty-five hundred thousand,Finance,2022-06-14,Good
+Employee_v1_331,45.0,,IT,2023-02-06,Poor
+Employee_v1_332,,6357105,HR,2019-03-18,Good
+Employee_v1_333,,4030513,Finance,2024-07-23,Good
+Employee_v1_334,32.0,forty thousand,IT,2016-11-05,Good
+Employee_v1_335,,forty thousand,Finance,2018-03-08,Poor
+Employee_v1_336,24.0,sixty-five hundred thousand,Finance,2021-11-15,Poor
+Employee_v1_337,,5158677,Finance,2022-05-16,Poor
+Employee_v1_338,,forty thousand,Finance,2015-12-20,Good
+Employee_v1_339,35.0,,Finance,2022-02-09,Poor
+Employee_v1_340,,5714090,IT,2021-04-09,Good
+Employee_v1_341,,,Finance,2024-09-24,Good
+Employee_v1_342,35.0,sixty-five hundred thousand,Finance,2021-01-19,Poor
+Employee_v1_343,,,HR,2022-09-17,Good
+Employee_v1_344,28.0,sixty-five hundred thousand,HR,2024-10-07,Good
+Employee_v1_345,27.0,forty thousand,Marketing,2015-06-25,Good
+Employee_v1_346,,sixty-five hundred thousand,IT,2022-06-30,Poor
+Employee_v1_347,,sixty-five hundred thousand,IT,2017-12-31,Good
+Employee_v1_348,,4017261,HR,2015-05-28,Poor
+Employee_v1_349,32.0,,Marketing,2020-06-18,Poor
+Employee_v1_350,,sixty-five hundred thousand,Finance,2021-08-21,Good
+Employee_v1_351,37.0,forty thousand,IT,2018-06-16,Good
+Employee_v1_352,28.0,forty thousand,HR,2019-11-22,Poor
+Employee_v1_353,,,IT,2017-11-30,Good
+Employee_v1_354,,7647005,Marketing,2020-12-22,Poor
+Employee_v1_355,,sixty-five hundred thousand,Finance,2021-11-08,Good
+Employee_v1_356,36.0,,Marketing,2022-02-19,Poor
+Employee_v1_357,38.0,,Finance,2024-12-06,Poor
+Employee_v1_358,,7203693,HR,2024-09-09,Good
+Employee_v1_359,42.0,4458337,Finance,2024-09-23,Poor
+Employee_v1_360,,forty thousand,IT,2015-01-18,Good
+Employee_v1_361,,,IT,2016-11-09,Good
+Employee_v1_362,,sixty-five hundred thousand,Finance,2018-11-30,Good
+Employee_v1_363,41.0,forty thousand,HR,2015-10-27,Good
+Employee_v1_364,33.0,forty thousand,HR,2019-03-01,Poor
+Employee_v1_365,,5117147,Finance,2017-11-27,Poor
+Employee_v1_366,,forty thousand,IT,2019-08-13,Poor
+Employee_v1_367,27.0,forty thousand,Marketing,2023-11-05,Poor
+Employee_v1_368,,sixty-five hundred thousand,Finance,2021-02-10,Poor
+Employee_v1_369,,,Finance,2017-01-25,Good
+Employee_v1_370,33.0,6100678,HR,2019-06-17,Good
+Employee_v1_371,45.0,sixty-five hundred thousand,HR,2020-07-24,Poor
+Employee_v1_372,24.0,7347110,Finance,2021-03-21,Good
+Employee_v1_373,,,IT,2015-09-11,Poor
+Employee_v1_374,45.0,5608440,HR,2023-03-06,Good
+Employee_v1_375,,8492808,Finance,2018-06-17,Good
+Employee_v1_376,,forty thousand,Finance,2021-09-17,Good
+Employee_v1_377,,,HR,2022-11-09,Poor
+Employee_v1_378,42.0,forty thousand,Finance,2015-10-18,Good
+Employee_v1_379,,forty thousand,IT,2021-03-30,Poor
+Employee_v1_380,41.0,forty thousand,HR,2022-09-20,Good
+Employee_v1_381,32.0,,Finance,2024-06-29,Good
+Employee_v1_382,44.0,forty thousand,Finance,2019-10-27,Poor
+Employee_v1_383,40.0,6344634,Marketing,2017-09-16,Good
+Employee_v1_384,33.0,4911832,Finance,2023-01-15,Good
+Employee_v1_385,,6631367,HR,2022-05-16,Good
+Employee_v1_386,,,HR,2018-06-17,Poor
+Employee_v1_387,,forty thousand,Marketing,2021-01-03,Good
+Employee_v1_388,,forty thousand,Finance,2015-05-02,Good
+Employee_v1_389,24.0,5212375,Marketing,2021-10-03,Good
+Employee_v1_390,27.0,,HR,2016-06-15,Poor
+Employee_v1_391,32.0,,HR,2022-12-14,Good
+Employee_v1_392,31.0,forty thousand,Finance,2023-04-13,Good
+Employee_v1_393,29.0,sixty-five hundred thousand,HR,2018-12-16,Good
+Employee_v1_394,44.0,forty thousand,Finance,2019-06-03,Good
+Employee_v1_395,37.0,4751487,IT,2015-11-17,Poor
+Employee_v1_396,25.0,forty thousand,IT,2015-12-28,Good
+Employee_v1_397,,sixty-five hundred thousand,IT,2021-03-08,Good
+Employee_v1_398,,5163404,Finance,2024-10-24,Poor
+Employee_v1_399,,forty thousand,HR,2019-11-07,Good
+Employee_v1_400,,sixty-five hundred thousand,Marketing,2017-03-12,Poor
+Employee_v1_401,,6141623,Finance,2019-03-22,Good
+Employee_v1_402,,7434243,Marketing,2018-11-26,Good
+Employee_v1_403,35.0,sixty-five hundred thousand,Marketing,2020-04-15,Poor
+Employee_v1_404,30.0,sixty-five hundred thousand,Finance,2021-06-16,Poor
+Employee_v1_405,,,HR,2015-07-11,Good
+Employee_v1_406,32.0,forty thousand,Finance,2021-04-16,Poor
+Employee_v1_407,24.0,5741081,Finance,2024-06-17,Poor
+Employee_v1_408,,6381843,HR,2021-07-06,Good
+Employee_v1_409,,6472024,Marketing,2017-11-01,Poor
+Employee_v1_410,32.0,6479586,Finance,2017-01-01,Poor
+Employee_v1_411,,sixty-five hundred thousand,HR,2018-09-11,Poor
+Employee_v1_412,,forty thousand,HR,2016-01-27,Good
+Employee_v1_413,,sixty-five hundred thousand,HR,2017-02-25,Good
+Employee_v1_414,42.0,6561836,IT,2018-11-29,Good
+Employee_v1_415,,sixty-five hundred thousand,Marketing,2023-02-12,Poor
+Employee_v1_416,24.0,6460110,HR,2024-03-08,Good
+Employee_v1_417,,forty thousand,IT,2020-07-31,Good
+Employee_v1_418,30.0,sixty-five hundred thousand,Marketing,2022-06-12,Good
+Employee_v1_419,38.0,sixty-five hundred thousand,Marketing,2016-07-24,Poor
+Employee_v1_420,42.0,6425747,Finance,2016-02-21,Poor
+Employee_v1_421,,forty thousand,Finance,2015-07-22,Good
+Employee_v1_422,,,HR,2019-06-26,Good
+Employee_v1_423,38.0,forty thousand,Finance,2016-02-07,Good
+Employee_v1_424,,sixty-five hundred thousand,Finance,2015-08-29,Good
+Employee_v1_425,41.0,7116897,Finance,2022-03-04,Poor
+Employee_v1_426,24.0,8598880,Marketing,2020-02-18,Good
+Employee_v1_427,40.0,,Finance,2021-03-09,Poor
+Employee_v1_428,,forty thousand,IT,2020-11-20,Good
+Employee_v1_429,,forty thousand,HR,2024-07-26,Poor
+Employee_v1_430,31.0,5935823,Finance,2017-01-10,Good
+Employee_v1_431,27.0,sixty-five hundred thousand,Finance,2019-09-15,Poor
+Employee_v1_432,,forty thousand,Finance,2023-11-17,Good
+Employee_v1_433,35.0,sixty-five hundred thousand,HR,2017-02-21,Good
+Employee_v1_434,,forty thousand,Marketing,2023-05-12,Poor
+Employee_v1_435,,,HR,2023-10-30,Good
+Employee_v1_436,41.0,sixty-five hundred thousand,Marketing,2019-11-25,Good
+Employee_v1_437,31.0,7909123,Finance,2022-06-13,Good
+Employee_v1_438,42.0,,Marketing,2020-03-10,Poor
+Employee_v1_439,34.0,sixty-five hundred thousand,IT,2015-03-17,Poor
+Employee_v1_440,,,Finance,2018-02-14,Poor
+Employee_v1_441,34.0,sixty-five hundred thousand,HR,2015-05-30,Good
+Employee_v1_442,43.0,forty thousand,IT,2019-12-24,Good
+Employee_v1_443,43.0,7548489,HR,2020-06-21,Good
+Employee_v1_444,32.0,,Marketing,2015-10-31,Good
+Employee_v1_445,,sixty-five hundred thousand,Marketing,2023-01-04,Good
+Employee_v1_446,30.0,sixty-five hundred thousand,Finance,2024-03-12,Poor
+Employee_v1_447,37.0,sixty-five hundred thousand,IT,2015-07-31,Poor
+Employee_v1_448,44.0,6722932,Finance,2018-11-04,Poor
+Employee_v1_449,,forty thousand,HR,2019-03-22,Poor
+Employee_v1_450,,sixty-five hundred thousand,IT,2024-01-13,Poor
+Employee_v1_451,,5965132,Marketing,2019-04-07,Good
+Employee_v1_452,44.0,forty thousand,IT,2018-07-13,Poor
+Employee_v1_453,,,HR,2019-01-12,Good
+Employee_v1_454,,5554009,HR,2016-01-02,Poor
+Employee_v1_455,,,Finance,2021-10-19,Poor
+Employee_v1_456,25.0,,Marketing,2021-05-20,Poor
+Employee_v1_457,34.0,sixty-five hundred thousand,Finance,2019-08-18,Good
+Employee_v1_458,,sixty-five hundred thousand,HR,2019-06-14,Poor
+Employee_v1_459,38.0,,Finance,2017-11-16,Poor
+Employee_v1_460,37.0,7679004,IT,2015-01-30,Good
+Employee_v1_461,,5308898,IT,2023-02-23,Good
+Employee_v1_462,34.0,,IT,2020-11-21,Poor
+Employee_v1_463,,sixty-five hundred thousand,IT,2017-05-05,Good
+Employee_v1_464,,,Marketing,2016-11-27,Poor
+Employee_v1_465,,,HR,2015-06-17,Good
+Employee_v1_466,27.0,sixty-five hundred thousand,Marketing,2019-02-17,Poor
+Employee_v1_467,42.0,sixty-five hundred thousand,Marketing,2021-02-06,Poor
+Employee_v1_468,32.0,forty thousand,Marketing,2023-08-13,Good
+Employee_v1_469,,4878904,Marketing,2020-06-01,Poor
+Employee_v1_470,34.0,5110539,IT,2023-01-16,Good
+Employee_v1_471,,4174682,HR,2022-05-16,Poor
+Employee_v1_472,43.0,5604595,HR,2020-11-21,Poor
+Employee_v1_473,,7196843,HR,2021-05-22,Poor
+Employee_v1_474,39.0,sixty-five hundred thousand,Finance,2016-07-31,Good
+Employee_v1_475,,sixty-five hundred thousand,HR,2021-05-14,Poor
+Employee_v1_476,,7692257,Marketing,2024-10-15,Poor
+Employee_v1_477,26.0,5909618,Marketing,2018-03-09,Good
+Employee_v1_478,36.0,sixty-five hundred thousand,HR,2024-07-05,Good
+Employee_v1_479,,,Finance,2015-01-14,Good
+Employee_v1_480,30.0,forty thousand,Marketing,2019-12-29,Poor
+Employee_v1_481,,sixty-five hundred thousand,Marketing,2020-01-06,Poor
+Employee_v1_482,,6218560,Marketing,2021-09-15,Good
+Employee_v1_483,,7031317,Finance,2024-08-14,Poor
+Employee_v1_484,,forty thousand,Marketing,2020-11-01,Good
+Employee_v1_485,,,Finance,2015-02-10,Good
+Employee_v1_486,31.0,8481025,HR,2022-04-22,Good
+Employee_v1_487,44.0,8458410,IT,2018-03-17,Good
+Employee_v1_488,,sixty-five hundred thousand,Marketing,2019-04-19,Poor
+Employee_v1_489,,forty thousand,Finance,2019-03-01,Poor
+Employee_v1_490,44.0,sixty-five hundred thousand,HR,2020-12-19,Poor
+Employee_v1_491,25.0,,IT,2017-07-19,Good
+Employee_v1_492,,forty thousand,HR,2019-08-06,Poor
+Employee_v1_493,25.0,7910247,IT,2017-09-15,Good
+Employee_v1_494,,sixty-five hundred thousand,Marketing,2017-09-10,Good
+Employee_v1_495,42.0,,Marketing,2024-05-14,Good
+Employee_v1_496,37.0,sixty-five hundred thousand,IT,2024-04-02,Good
+Employee_v1_497,26.0,,HR,2024-02-06,Good
+Employee_v1_498,,6781744,IT,2021-04-07,Poor
+Employee_v1_499,,,HR,2019-10-10,Good
+Employee_v1_500,,6139275,IT,2019-11-20,Poor

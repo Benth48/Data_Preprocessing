@@ -1,0 +1,501 @@
+Name,Age,Salary,Department,Joined_Date,Performance
+Employee_v5_001,43.0,sixty-five hundred thousand,Publishing,2024-04-29,Good
+Employee_v5_002,34.0,sixty-five hundred thousand,Design,2015-05-01,Good
+Employee_v5_003,41.0,forty thousand,Research,2024-10-18,Good
+Employee_v5_004,26.0,,Research,2024-09-14,Poor
+Employee_v5_005,,8824197,Research,2022-10-01,Poor
+Employee_v5_006,36.0,forty thousand,Publishing,2016-02-04,Good
+Employee_v5_007,32.0,sixty-five hundred thousand,Editorial,2024-12-17,Good
+Employee_v5_008,26.0,sixty-five hundred thousand,Research,2017-11-18,Good
+Employee_v5_009,,5431095,Research,2022-02-09,Poor
+Employee_v5_010,,8628944,Design,2023-12-01,Poor
+Employee_v5_011,,,Design,2021-10-01,Good
+Employee_v5_012,,forty thousand,Editorial,2022-09-03,Good
+Employee_v5_013,,forty thousand,Publishing,2018-03-23,Poor
+Employee_v5_014,24.0,forty thousand,Research,2020-01-19,Poor
+Employee_v5_015,,,Design,2024-08-12,Good
+Employee_v5_016,43.0,,Design,2023-11-19,Good
+Employee_v5_017,39.0,sixty-five hundred thousand,Publishing,2017-10-29,Poor
+Employee_v5_018,,,Editorial,2020-03-16,Poor
+Employee_v5_019,,sixty-five hundred thousand,Research,2017-02-07,Poor
+Employee_v5_020,33.0,5642340,Design,2017-04-11,Poor
+Employee_v5_021,,6117928,Publishing,2017-07-26,Good
+Employee_v5_022,31.0,,Publishing,2020-04-01,Good
+Employee_v5_023,28.0,4623972,Design,2015-01-12,Good
+Employee_v5_024,38.0,7037673,Publishing,2018-10-13,Poor
+Employee_v5_025,,forty thousand,Design,2017-01-17,Poor
+Employee_v5_026,40.0,4585478,Publishing,2018-01-07,Good
+Employee_v5_027,,forty thousand,Design,2022-07-30,Good
+Employee_v5_028,,forty thousand,Design,2018-07-08,Good
+Employee_v5_029,36.0,forty thousand,Research,2015-11-19,Good
+Employee_v5_030,,sixty-five hundred thousand,Editorial,2021-04-02,Poor
+Employee_v5_031,,sixty-five hundred thousand,Publishing,2016-05-21,Poor
+Employee_v5_032,,5568667,Design,2022-06-26,Good
+Employee_v5_033,32.0,forty thousand,Design,2018-02-21,Good
+Employee_v5_034,,sixty-five hundred thousand,Editorial,2022-09-20,Good
+Employee_v5_035,,sixty-five hundred thousand,Publishing,2018-09-16,Good
+Employee_v5_036,,7548714,Publishing,2021-12-23,Poor
+Employee_v5_037,,,Design,2019-11-19,Poor
+Employee_v5_038,33.0,sixty-five hundred thousand,Editorial,2023-04-10,Poor
+Employee_v5_039,26.0,forty thousand,Publishing,2018-04-25,Good
+Employee_v5_040,36.0,5878431,Publishing,2015-11-10,Poor
+Employee_v5_041,,forty thousand,Design,2021-01-30,Good
+Employee_v5_042,41.0,forty thousand,Research,2021-04-28,Poor
+Employee_v5_043,,sixty-five hundred thousand,Publishing,2023-04-17,Good
+Employee_v5_044,41.0,5529801,Editorial,2023-06-11,Poor
+Employee_v5_045,,forty thousand,Research,2021-03-05,Good
+Employee_v5_046,,8650903,Publishing,2021-02-15,Good
+Employee_v5_047,33.0,,Design,2023-01-25,Good
+Employee_v5_048,43.0,forty thousand,Editorial,2024-11-28,Good
+Employee_v5_049,,8991203,Research,2018-06-21,Good
+Employee_v5_050,39.0,forty thousand,Publishing,2019-04-15,Good
+Employee_v5_051,45.0,sixty-five hundred thousand,Editorial,2022-03-17,Good
+Employee_v5_052,40.0,forty thousand,Design,2023-05-29,Poor
+Employee_v5_053,29.0,,Design,2018-05-22,Poor
+Employee_v5_054,32.0,forty thousand,Publishing,2022-06-30,Poor
+Employee_v5_055,,sixty-five hundred thousand,Publishing,2022-09-08,Poor
+Employee_v5_056,,,Editorial,2021-05-10,Good
+Employee_v5_057,,forty thousand,Editorial,2021-01-10,Poor
+Employee_v5_058,,,Editorial,2022-01-26,Good
+Employee_v5_059,,6752923,Editorial,2024-01-07,Good
+Employee_v5_060,44.0,sixty-five hundred thousand,Research,2024-05-04,Poor
+Employee_v5_061,33.0,,Design,2022-11-22,Good
+Employee_v5_062,27.0,forty thousand,Publishing,2016-08-11,Poor
+Employee_v5_063,45.0,sixty-five hundred thousand,Research,2022-05-15,Poor
+Employee_v5_064,,sixty-five hundred thousand,Publishing,2017-02-24,Good
+Employee_v5_065,36.0,8009320,Editorial,2015-04-17,Good
+Employee_v5_066,41.0,6527798,Editorial,2018-11-16,Poor
+Employee_v5_067,43.0,,Publishing,2024-12-14,Poor
+Employee_v5_068,43.0,4413201,Design,2017-06-11,Good
+Employee_v5_069,27.0,sixty-five hundred thousand,Design,2018-03-03,Poor
+Employee_v5_070,,,Research,2020-11-04,Poor
+Employee_v5_071,25.0,forty thousand,Design,2022-08-23,Good
+Employee_v5_072,35.0,4517086,Research,2016-06-09,Good
+Employee_v5_073,35.0,forty thousand,Design,2024-01-21,Good
+Employee_v5_074,,sixty-five hundred thousand,Editorial,2018-05-13,Good
+Employee_v5_075,,sixty-five hundred thousand,Design,2022-06-10,Good
+Employee_v5_076,,forty thousand,Design,2019-04-05,Poor
+Employee_v5_077,,5128525,Design,2019-10-23,Poor
+Employee_v5_078,,4330735,Research,2016-01-11,Poor
+Employee_v5_079,25.0,forty thousand,Editorial,2022-05-17,Good
+Employee_v5_080,,6255933,Research,2017-10-16,Good
+Employee_v5_081,34.0,,Publishing,2022-12-07,Poor
+Employee_v5_082,,4337826,Publishing,2019-12-24,Good
+Employee_v5_083,,4210505,Publishing,2023-12-17,Poor
+Employee_v5_084,,,Publishing,2015-01-10,Poor
+Employee_v5_085,41.0,sixty-five hundred thousand,Research,2024-06-14,Good
+Employee_v5_086,27.0,6019003,Editorial,2018-09-02,Good
+Employee_v5_087,37.0,5628883,Design,2021-08-20,Poor
+Employee_v5_088,38.0,5130068,Research,2024-03-26,Poor
+Employee_v5_089,,,Editorial,2019-09-12,Poor
+Employee_v5_090,,6613619,Design,2016-01-06,Good
+Employee_v5_091,24.0,,Publishing,2023-09-30,Good
+Employee_v5_092,,forty thousand,Editorial,2024-07-25,Good
+Employee_v5_093,,sixty-five hundred thousand,Research,2018-08-16,Poor
+Employee_v5_094,35.0,forty thousand,Editorial,2021-08-30,Poor
+Employee_v5_095,45.0,forty thousand,Research,2019-05-03,Good
+Employee_v5_096,39.0,forty thousand,Editorial,2022-10-24,Poor
+Employee_v5_097,44.0,forty thousand,Research,2017-10-18,Poor
+Employee_v5_098,24.0,,Publishing,2023-02-09,Good
+Employee_v5_099,,6351426,Research,2016-03-14,Good
+Employee_v5_100,,sixty-five hundred thousand,Research,2017-02-27,Good
+Employee_v5_101,,4530641,Publishing,2020-10-13,Poor
+Employee_v5_102,42.0,4072647,Research,2016-11-20,Good
+Employee_v5_103,,forty thousand,Publishing,2022-05-16,Poor
+Employee_v5_104,43.0,forty thousand,Research,2016-08-04,Good
+Employee_v5_105,,forty thousand,Research,2022-03-28,Poor
+Employee_v5_106,,4916697,Design,2015-12-16,Poor
+Employee_v5_107,,,Design,2017-06-09,Poor
+Employee_v5_108,35.0,forty thousand,Design,2022-03-30,Good
+Employee_v5_109,,sixty-five hundred thousand,Research,2017-01-12,Good
+Employee_v5_110,41.0,,Editorial,2022-09-15,Poor
+Employee_v5_111,42.0,sixty-five hundred thousand,Publishing,2015-02-04,Good
+Employee_v5_112,24.0,sixty-five hundred thousand,Design,2021-01-22,Poor
+Employee_v5_113,,,Editorial,2020-10-24,Poor
+Employee_v5_114,,sixty-five hundred thousand,Design,2023-07-05,Good
+Employee_v5_115,,sixty-five hundred thousand,Design,2021-09-19,Poor
+Employee_v5_116,,,Design,2020-11-07,Poor
+Employee_v5_117,,sixty-five hundred thousand,Publishing,2018-02-28,Good
+Employee_v5_118,,,Design,2022-09-29,Good
+Employee_v5_119,,forty thousand,Publishing,2021-06-26,Good
+Employee_v5_120,,,Editorial,2023-06-07,Good
+Employee_v5_121,38.0,4392972,Editorial,2016-11-24,Poor
+Employee_v5_122,,,Editorial,2015-05-15,Good
+Employee_v5_123,34.0,,Publishing,2019-11-18,Poor
+Employee_v5_124,,forty thousand,Research,2015-04-12,Poor
+Employee_v5_125,44.0,,Publishing,2020-07-28,Poor
+Employee_v5_126,,5440025,Research,2017-09-09,Poor
+Employee_v5_127,45.0,sixty-five hundred thousand,Publishing,2016-12-06,Good
+Employee_v5_128,,7656538,Design,2018-05-13,Good
+Employee_v5_129,33.0,sixty-five hundred thousand,Publishing,2017-03-20,Good
+Employee_v5_130,,5623310,Design,2017-02-26,Poor
+Employee_v5_131,29.0,sixty-five hundred thousand,Publishing,2024-05-19,Poor
+Employee_v5_132,40.0,,Research,2021-05-05,Good
+Employee_v5_133,,sixty-five hundred thousand,Research,2024-09-06,Poor
+Employee_v5_134,,sixty-five hundred thousand,Design,2016-12-25,Good
+Employee_v5_135,25.0,7180985,Editorial,2024-09-23,Good
+Employee_v5_136,,forty thousand,Editorial,2023-07-10,Poor
+Employee_v5_137,,,Research,2023-01-07,Good
+Employee_v5_138,34.0,forty thousand,Editorial,2015-01-02,Good
+Employee_v5_139,,sixty-five hundred thousand,Editorial,2019-03-26,Poor
+Employee_v5_140,29.0,,Design,2022-08-17,Poor
+Employee_v5_141,,,Publishing,2015-09-30,Poor
+Employee_v5_142,,8780185,Publishing,2024-04-18,Poor
+Employee_v5_143,28.0,forty thousand,Design,2018-07-28,Poor
+Employee_v5_144,,sixty-five hundred thousand,Editorial,2018-04-02,Poor
+Employee_v5_145,45.0,sixty-five hundred thousand,Research,2024-09-06,Poor
+Employee_v5_146,,sixty-five hundred thousand,Design,2020-11-26,Good
+Employee_v5_147,,7005952,Editorial,2015-12-04,Good
+Employee_v5_148,,sixty-five hundred thousand,Design,2017-11-13,Poor
+Employee_v5_149,,sixty-five hundred thousand,Publishing,2017-09-10,Good
+Employee_v5_150,30.0,sixty-five hundred thousand,Publishing,2019-10-25,Poor
+Employee_v5_151,33.0,7073901,Editorial,2019-12-20,Poor
+Employee_v5_152,,forty thousand,Editorial,2021-10-10,Poor
+Employee_v5_153,,,Publishing,2017-08-19,Poor
+Employee_v5_154,43.0,,Publishing,2019-03-01,Good
+Employee_v5_155,28.0,,Editorial,2019-09-13,Good
+Employee_v5_156,38.0,forty thousand,Design,2021-11-10,Poor
+Employee_v5_157,,,Publishing,2024-02-12,Poor
+Employee_v5_158,,sixty-five hundred thousand,Design,2017-11-13,Good
+Employee_v5_159,,forty thousand,Publishing,2016-12-02,Good
+Employee_v5_160,44.0,,Research,2019-05-13,Poor
+Employee_v5_161,,sixty-five hundred thousand,Editorial,2018-09-22,Poor
+Employee_v5_162,34.0,,Research,2015-05-31,Poor
+Employee_v5_163,27.0,5348925,Publishing,2022-03-28,Poor
+Employee_v5_164,45.0,forty thousand,Design,2016-01-26,Poor
+Employee_v5_165,,forty thousand,Research,2019-11-06,Good
+Employee_v5_166,,6468035,Editorial,2021-05-12,Good
+Employee_v5_167,39.0,sixty-five hundred thousand,Research,2017-11-23,Good
+Employee_v5_168,,7769809,Research,2021-08-31,Good
+Employee_v5_169,,,Research,2016-11-25,Poor
+Employee_v5_170,38.0,forty thousand,Editorial,2018-12-30,Good
+Employee_v5_171,43.0,,Research,2022-02-27,Good
+Employee_v5_172,43.0,5739321,Editorial,2022-05-07,Poor
+Employee_v5_173,,sixty-five hundred thousand,Editorial,2021-06-24,Good
+Employee_v5_174,32.0,forty thousand,Editorial,2015-03-09,Poor
+Employee_v5_175,44.0,,Research,2021-12-25,Poor
+Employee_v5_176,,sixty-five hundred thousand,Editorial,2021-10-11,Poor
+Employee_v5_177,39.0,8160822,Design,2015-10-06,Good
+Employee_v5_178,,forty thousand,Publishing,2023-12-16,Poor
+Employee_v5_179,43.0,forty thousand,Research,2018-11-21,Good
+Employee_v5_180,27.0,forty thousand,Design,2018-07-02,Good
+Employee_v5_181,24.0,forty thousand,Editorial,2022-06-06,Poor
+Employee_v5_182,26.0,,Editorial,2021-12-10,Poor
+Employee_v5_183,,,Research,2015-11-30,Good
+Employee_v5_184,40.0,,Design,2022-01-21,Poor
+Employee_v5_185,,6791472,Design,2020-09-17,Poor
+Employee_v5_186,27.0,5371013,Research,2015-12-21,Good
+Employee_v5_187,39.0,4010955,Research,2017-08-13,Poor
+Employee_v5_188,,,Publishing,2022-02-26,Good
+Employee_v5_189,,forty thousand,Design,2020-03-31,Poor
+Employee_v5_190,,4818225,Editorial,2015-02-03,Poor
+Employee_v5_191,,sixty-five hundred thousand,Design,2024-11-29,Poor
+Employee_v5_192,,,Editorial,2022-02-27,Good
+Employee_v5_193,33.0,,Publishing,2020-02-18,Good
+Employee_v5_194,44.0,8171283,Editorial,2016-07-30,Good
+Employee_v5_195,,,Design,2020-07-12,Poor
+Employee_v5_196,34.0,forty thousand,Design,2020-08-28,Poor
+Employee_v5_197,,sixty-five hundred thousand,Design,2015-09-11,Poor
+Employee_v5_198,,8545405,Publishing,2018-07-05,Good
+Employee_v5_199,,sixty-five hundred thousand,Editorial,2019-12-24,Good
+Employee_v5_200,,,Publishing,2020-12-24,Good
+Employee_v5_201,30.0,forty thousand,Editorial,2015-09-23,Poor
+Employee_v5_202,,sixty-five hundred thousand,Editorial,2016-11-17,Good
+Employee_v5_203,,sixty-five hundred thousand,Design,2024-02-20,Poor
+Employee_v5_204,,sixty-five hundred thousand,Publishing,2023-04-25,Good
+Employee_v5_205,25.0,,Design,2017-09-20,Poor
+Employee_v5_206,26.0,,Research,2021-04-12,Good
+Employee_v5_207,,6862771,Publishing,2016-10-19,Good
+Employee_v5_208,,8755312,Editorial,2020-12-12,Good
+Employee_v5_209,29.0,8683192,Design,2022-06-20,Poor
+Employee_v5_210,39.0,4119190,Research,2020-03-01,Poor
+Employee_v5_211,28.0,sixty-five hundred thousand,Publishing,2019-11-08,Good
+Employee_v5_212,27.0,forty thousand,Design,2023-11-11,Poor
+Employee_v5_213,,sixty-five hundred thousand,Research,2016-10-22,Good
+Employee_v5_214,,sixty-five hundred thousand,Editorial,2018-03-29,Poor
+Employee_v5_215,39.0,forty thousand,Research,2021-02-24,Good
+Employee_v5_216,,,Research,2016-10-15,Poor
+Employee_v5_217,,,Editorial,2019-03-06,Good
+Employee_v5_218,,,Design,2024-07-15,Good
+Employee_v5_219,,8619407,Publishing,2019-07-23,Good
+Employee_v5_220,43.0,4341669,Editorial,2020-01-18,Good
+Employee_v5_221,,forty thousand,Design,2023-02-28,Poor
+Employee_v5_222,,,Design,2022-10-22,Poor
+Employee_v5_223,41.0,6055897,Publishing,2023-01-19,Good
+Employee_v5_224,45.0,forty thousand,Editorial,2021-02-25,Poor
+Employee_v5_225,39.0,,Design,2024-08-22,Good
+Employee_v5_226,,7286217,Design,2016-04-27,Good
+Employee_v5_227,42.0,sixty-five hundred thousand,Design,2016-02-02,Poor
+Employee_v5_228,45.0,7342641,Publishing,2015-06-01,Poor
+Employee_v5_229,39.0,sixty-five hundred thousand,Research,2022-10-25,Poor
+Employee_v5_230,,,Research,2020-06-07,Poor
+Employee_v5_231,30.0,,Research,2021-02-01,Good
+Employee_v5_232,,,Publishing,2020-02-05,Poor
+Employee_v5_233,,8879721,Editorial,2021-02-04,Good
+Employee_v5_234,43.0,sixty-five hundred thousand,Editorial,2020-07-20,Good
+Employee_v5_235,35.0,,Design,2023-08-14,Good
+Employee_v5_236,,forty thousand,Design,2020-12-13,Good
+Employee_v5_237,28.0,,Research,2021-11-04,Poor
+Employee_v5_238,,sixty-five hundred thousand,Editorial,2018-05-26,Good
+Employee_v5_239,40.0,forty thousand,Research,2016-02-07,Poor
+Employee_v5_240,,sixty-five hundred thousand,Publishing,2016-05-05,Poor
+Employee_v5_241,39.0,forty thousand,Design,2022-10-11,Good
+Employee_v5_242,39.0,sixty-five hundred thousand,Publishing,2021-01-17,Poor
+Employee_v5_243,24.0,forty thousand,Design,2015-05-23,Poor
+Employee_v5_244,,sixty-five hundred thousand,Design,2016-02-03,Good
+Employee_v5_245,,4328866,Editorial,2021-02-20,Poor
+Employee_v5_246,45.0,forty thousand,Research,2020-12-19,Good
+Employee_v5_247,29.0,sixty-five hundred thousand,Editorial,2015-08-03,Good
+Employee_v5_248,28.0,sixty-five hundred thousand,Publishing,2022-05-26,Good
+Employee_v5_249,25.0,forty thousand,Design,2024-03-25,Good
+Employee_v5_250,,,Publishing,2023-06-18,Good
+Employee_v5_251,40.0,sixty-five hundred thousand,Design,2023-03-03,Good
+Employee_v5_252,45.0,8025741,Design,2016-01-19,Poor
+Employee_v5_253,,7951342,Design,2020-06-10,Good
+Employee_v5_254,,6596398,Research,2023-02-04,Poor
+Employee_v5_255,24.0,,Publishing,2017-09-24,Good
+Employee_v5_256,38.0,,Publishing,2018-03-10,Good
+Employee_v5_257,,5886607,Publishing,2023-10-12,Good
+Employee_v5_258,28.0,,Research,2016-08-05,Good
+Employee_v5_259,28.0,6354261,Design,2022-10-28,Poor
+Employee_v5_260,,sixty-five hundred thousand,Design,2017-05-10,Poor
+Employee_v5_261,,,Research,2020-06-14,Poor
+Employee_v5_262,40.0,forty thousand,Design,2024-09-02,Good
+Employee_v5_263,,forty thousand,Editorial,2023-06-28,Poor
+Employee_v5_264,24.0,forty thousand,Editorial,2017-01-05,Poor
+Employee_v5_265,,7495671,Research,2015-09-26,Good
+Employee_v5_266,,sixty-five hundred thousand,Research,2018-10-25,Poor
+Employee_v5_267,38.0,,Design,2022-04-13,Good
+Employee_v5_268,39.0,sixty-five hundred thousand,Publishing,2021-04-14,Good
+Employee_v5_269,,,Research,2018-05-03,Poor
+Employee_v5_270,41.0,7537735,Research,2021-12-30,Poor
+Employee_v5_271,,5387980,Research,2021-02-23,Good
+Employee_v5_272,,5956327,Publishing,2016-07-20,Poor
+Employee_v5_273,36.0,,Editorial,2015-11-09,Good
+Employee_v5_274,,,Publishing,2018-11-01,Poor
+Employee_v5_275,33.0,forty thousand,Publishing,2020-08-31,Good
+Employee_v5_276,,sixty-five hundred thousand,Editorial,2024-01-14,Poor
+Employee_v5_277,37.0,sixty-five hundred thousand,Editorial,2024-10-08,Good
+Employee_v5_278,,forty thousand,Publishing,2021-05-05,Poor
+Employee_v5_279,41.0,forty thousand,Design,2022-10-27,Good
+Employee_v5_280,39.0,sixty-five hundred thousand,Research,2022-12-08,Good
+Employee_v5_281,,4246788,Research,2015-10-18,Poor
+Employee_v5_282,,forty thousand,Design,2020-12-31,Poor
+Employee_v5_283,,sixty-five hundred thousand,Publishing,2017-05-21,Poor
+Employee_v5_284,45.0,5480423,Publishing,2023-11-10,Good
+Employee_v5_285,,6742412,Research,2021-12-25,Poor
+Employee_v5_286,,,Publishing,2015-12-09,Good
+Employee_v5_287,,,Publishing,2016-04-02,Poor
+Employee_v5_288,27.0,5438598,Research,2019-05-25,Good
+Employee_v5_289,,,Design,2023-11-12,Good
+Employee_v5_290,28.0,4401018,Research,2023-05-22,Poor
+Employee_v5_291,,,Design,2021-04-04,Poor
+Employee_v5_292,44.0,,Publishing,2016-10-22,Good
+Employee_v5_293,,sixty-five hundred thousand,Publishing,2020-12-12,Poor
+Employee_v5_294,35.0,forty thousand,Design,2019-10-01,Good
+Employee_v5_295,,,Publishing,2024-03-26,Poor
+Employee_v5_296,,,Design,2019-01-07,Good
+Employee_v5_297,,8644846,Editorial,2018-12-23,Poor
+Employee_v5_298,42.0,sixty-five hundred thousand,Design,2024-07-18,Poor
+Employee_v5_299,34.0,forty thousand,Research,2015-12-31,Poor
+Employee_v5_300,,forty thousand,Editorial,2015-10-25,Good
+Employee_v5_301,37.0,4951481,Research,2015-12-20,Poor
+Employee_v5_302,25.0,4100823,Design,2023-02-08,Good
+Employee_v5_303,,forty thousand,Research,2020-07-17,Poor
+Employee_v5_304,,sixty-five hundred thousand,Research,2020-05-02,Poor
+Employee_v5_305,29.0,,Publishing,2024-03-02,Good
+Employee_v5_306,,forty thousand,Publishing,2017-12-23,Poor
+Employee_v5_307,39.0,5754925,Design,2022-06-13,Poor
+Employee_v5_308,33.0,sixty-five hundred thousand,Design,2018-11-07,Good
+Employee_v5_309,,6481134,Publishing,2024-02-23,Poor
+Employee_v5_310,25.0,sixty-five hundred thousand,Design,2016-04-06,Poor
+Employee_v5_311,,sixty-five hundred thousand,Publishing,2023-09-10,Poor
+Employee_v5_312,24.0,sixty-five hundred thousand,Editorial,2020-12-06,Good
+Employee_v5_313,,sixty-five hundred thousand,Publishing,2020-01-14,Good
+Employee_v5_314,,forty thousand,Design,2017-08-14,Poor
+Employee_v5_315,31.0,,Research,2022-08-26,Good
+Employee_v5_316,34.0,forty thousand,Editorial,2016-12-14,Good
+Employee_v5_317,,sixty-five hundred thousand,Design,2021-08-27,Poor
+Employee_v5_318,27.0,forty thousand,Design,2018-09-26,Good
+Employee_v5_319,30.0,,Research,2018-05-04,Poor
+Employee_v5_320,,,Research,2020-10-24,Good
+Employee_v5_321,,forty thousand,Design,2019-04-14,Good
+Employee_v5_322,,sixty-five hundred thousand,Editorial,2015-11-27,Good
+Employee_v5_323,,,Editorial,2016-04-03,Good
+Employee_v5_324,,,Editorial,2020-02-03,Poor
+Employee_v5_325,,7237741,Design,2023-07-01,Good
+Employee_v5_326,,6873592,Publishing,2023-08-03,Good
+Employee_v5_327,30.0,sixty-five hundred thousand,Publishing,2021-04-24,Good
+Employee_v5_328,35.0,forty thousand,Editorial,2022-06-08,Good
+Employee_v5_329,,forty thousand,Publishing,2020-12-06,Good
+Employee_v5_330,,forty thousand,Research,2023-06-22,Poor
+Employee_v5_331,29.0,,Editorial,2015-10-18,Good
+Employee_v5_332,41.0,8933433,Publishing,2020-09-23,Poor
+Employee_v5_333,33.0,,Research,2016-01-22,Good
+Employee_v5_334,37.0,5714880,Design,2016-06-26,Poor
+Employee_v5_335,40.0,sixty-five hundred thousand,Publishing,2015-09-06,Good
+Employee_v5_336,31.0,,Design,2015-08-06,Poor
+Employee_v5_337,35.0,7192873,Design,2019-02-27,Poor
+Employee_v5_338,,sixty-five hundred thousand,Editorial,2022-07-22,Poor
+Employee_v5_339,,6696267,Research,2016-03-25,Poor
+Employee_v5_340,,5154649,Editorial,2018-12-30,Good
+Employee_v5_341,,forty thousand,Design,2020-01-15,Good
+Employee_v5_342,33.0,,Design,2017-06-01,Poor
+Employee_v5_343,39.0,,Editorial,2021-02-15,Good
+Employee_v5_344,,,Design,2016-05-18,Good
+Employee_v5_345,,6288261,Publishing,2019-07-11,Good
+Employee_v5_346,,4477057,Editorial,2022-03-22,Good
+Employee_v5_347,,6213924,Design,2016-11-25,Poor
+Employee_v5_348,38.0,sixty-five hundred thousand,Editorial,2019-09-24,Good
+Employee_v5_349,,sixty-five hundred thousand,Editorial,2020-02-01,Poor
+Employee_v5_350,27.0,,Editorial,2018-04-02,Good
+Employee_v5_351,,6124507,Design,2016-12-26,Poor
+Employee_v5_352,26.0,,Design,2018-07-04,Poor
+Employee_v5_353,,sixty-five hundred thousand,Publishing,2018-02-28,Good
+Employee_v5_354,43.0,6438759,Editorial,2021-06-14,Good
+Employee_v5_355,,forty thousand,Publishing,2016-06-02,Good
+Employee_v5_356,28.0,6205749,Design,2022-06-25,Good
+Employee_v5_357,,5219054,Research,2020-07-30,Good
+Employee_v5_358,,6683448,Publishing,2024-10-05,Good
+Employee_v5_359,,5659291,Design,2016-06-18,Poor
+Employee_v5_360,,6489102,Research,2020-08-17,Poor
+Employee_v5_361,,forty thousand,Editorial,2022-08-09,Poor
+Employee_v5_362,,8071076,Editorial,2018-09-04,Poor
+Employee_v5_363,,4601441,Research,2024-03-30,Good
+Employee_v5_364,33.0,sixty-five hundred thousand,Publishing,2018-04-30,Poor
+Employee_v5_365,43.0,,Design,2018-08-09,Good
+Employee_v5_366,42.0,sixty-five hundred thousand,Design,2016-05-02,Good
+Employee_v5_367,,sixty-five hundred thousand,Publishing,2021-03-06,Good
+Employee_v5_368,,forty thousand,Publishing,2020-01-08,Good
+Employee_v5_369,29.0,,Design,2015-11-25,Good
+Employee_v5_370,,,Research,2020-06-26,Poor
+Employee_v5_371,33.0,sixty-five hundred thousand,Editorial,2024-02-09,Good
+Employee_v5_372,,7804564,Editorial,2017-10-14,Poor
+Employee_v5_373,38.0,forty thousand,Publishing,2021-02-25,Poor
+Employee_v5_374,39.0,5312535,Editorial,2024-08-17,Good
+Employee_v5_375,,forty thousand,Editorial,2021-03-18,Good
+Employee_v5_376,39.0,sixty-five hundred thousand,Design,2017-12-14,Poor
+Employee_v5_377,33.0,,Publishing,2016-04-03,Poor
+Employee_v5_378,27.0,forty thousand,Design,2016-10-03,Poor
+Employee_v5_379,,7292890,Design,2024-10-23,Poor
+Employee_v5_380,,forty thousand,Research,2022-07-23,Good
+Employee_v5_381,25.0,8352231,Editorial,2015-10-08,Poor
+Employee_v5_382,44.0,sixty-five hundred thousand,Editorial,2020-08-31,Good
+Employee_v5_383,,7061860,Publishing,2018-06-09,Good
+Employee_v5_384,,sixty-five hundred thousand,Publishing,2016-06-19,Good
+Employee_v5_385,,,Editorial,2022-10-06,Poor
+Employee_v5_386,,sixty-five hundred thousand,Design,2023-05-18,Poor
+Employee_v5_387,39.0,forty thousand,Editorial,2016-02-21,Good
+Employee_v5_388,,6893690,Publishing,2021-03-04,Poor
+Employee_v5_389,,sixty-five hundred thousand,Research,2017-08-13,Good
+Employee_v5_390,24.0,4198087,Editorial,2023-01-19,Good
+Employee_v5_391,,sixty-five hundred thousand,Research,2018-01-04,Good
+Employee_v5_392,31.0,,Design,2023-05-09,Poor
+Employee_v5_393,33.0,,Research,2024-10-21,Good
+Employee_v5_394,,,Design,2021-10-14,Poor
+Employee_v5_395,,,Publishing,2019-06-17,Good
+Employee_v5_396,,,Research,2022-01-30,Poor
+Employee_v5_397,42.0,6298151,Editorial,2024-01-18,Poor
+Employee_v5_398,,4762115,Research,2016-12-24,Good
+Employee_v5_399,26.0,7579140,Publishing,2018-01-07,Good
+Employee_v5_400,34.0,5758274,Design,2024-01-07,Poor
+Employee_v5_401,,sixty-five hundred thousand,Research,2024-11-20,Good
+Employee_v5_402,31.0,,Editorial,2024-07-10,Good
+Employee_v5_403,39.0,,Publishing,2015-10-25,Poor
+Employee_v5_404,41.0,forty thousand,Publishing,2024-01-09,Good
+Employee_v5_405,35.0,5424488,Research,2016-10-18,Poor
+Employee_v5_406,45.0,5545532,Design,2024-12-13,Good
+Employee_v5_407,40.0,sixty-five hundred thousand,Editorial,2015-06-24,Good
+Employee_v5_408,26.0,forty thousand,Design,2023-01-25,Good
+Employee_v5_409,39.0,forty thousand,Research,2024-10-14,Good
+Employee_v5_410,,,Editorial,2021-09-15,Good
+Employee_v5_411,33.0,sixty-five hundred thousand,Research,2016-05-05,Poor
+Employee_v5_412,38.0,sixty-five hundred thousand,Research,2024-04-08,Poor
+Employee_v5_413,45.0,,Design,2021-06-06,Good
+Employee_v5_414,27.0,forty thousand,Publishing,2023-07-10,Good
+Employee_v5_415,,forty thousand,Editorial,2020-07-15,Good
+Employee_v5_416,,,Editorial,2022-06-04,Good
+Employee_v5_417,28.0,forty thousand,Publishing,2024-10-27,Poor
+Employee_v5_418,,,Research,2016-09-01,Good
+Employee_v5_419,30.0,,Editorial,2019-04-19,Poor
+Employee_v5_420,,sixty-five hundred thousand,Publishing,2023-11-30,Good
+Employee_v5_421,34.0,5056191,Publishing,2020-07-10,Good
+Employee_v5_422,41.0,6545824,Research,2021-12-05,Good
+Employee_v5_423,41.0,,Research,2019-01-14,Poor
+Employee_v5_424,33.0,sixty-five hundred thousand,Design,2015-06-14,Poor
+Employee_v5_425,,,Research,2017-05-09,Poor
+Employee_v5_426,30.0,,Editorial,2020-02-05,Good
+Employee_v5_427,33.0,forty thousand,Publishing,2019-06-21,Good
+Employee_v5_428,27.0,,Design,2020-07-03,Poor
+Employee_v5_429,,forty thousand,Research,2015-04-10,Poor
+Employee_v5_430,37.0,forty thousand,Editorial,2019-04-13,Poor
+Employee_v5_431,,,Design,2018-10-01,Good
+Employee_v5_432,27.0,7011876,Design,2022-03-22,Poor
+Employee_v5_433,,,Editorial,2023-06-09,Good
+Employee_v5_434,43.0,forty thousand,Research,2021-11-12,Good
+Employee_v5_435,,,Editorial,2023-04-18,Good
+Employee_v5_436,35.0,sixty-five hundred thousand,Design,2021-12-14,Poor
+Employee_v5_437,,,Design,2018-06-28,Good
+Employee_v5_438,28.0,sixty-five hundred thousand,Design,2017-06-17,Poor
+Employee_v5_439,28.0,forty thousand,Publishing,2017-03-24,Good
+Employee_v5_440,24.0,5636881,Publishing,2015-08-05,Poor
+Employee_v5_441,31.0,sixty-five hundred thousand,Research,2019-11-18,Poor
+Employee_v5_442,,5699021,Editorial,2015-01-14,Good
+Employee_v5_443,,5182410,Editorial,2017-08-01,Poor
+Employee_v5_444,,forty thousand,Publishing,2015-11-16,Poor
+Employee_v5_445,,,Design,2024-03-08,Poor
+Employee_v5_446,40.0,forty thousand,Editorial,2023-11-27,Good
+Employee_v5_447,,forty thousand,Editorial,2023-02-15,Poor
+Employee_v5_448,43.0,sixty-five hundred thousand,Research,2018-02-16,Good
+Employee_v5_449,,5060922,Editorial,2020-01-31,Poor
+Employee_v5_450,,5096360,Editorial,2018-10-25,Poor
+Employee_v5_451,,forty thousand,Research,2023-08-03,Good
+Employee_v5_452,,forty thousand,Publishing,2016-09-12,Good
+Employee_v5_453,,forty thousand,Editorial,2019-10-09,Good
+Employee_v5_454,,,Editorial,2016-09-14,Poor
+Employee_v5_455,,,Editorial,2021-10-24,Poor
+Employee_v5_456,30.0,sixty-five hundred thousand,Design,2022-10-27,Poor
+Employee_v5_457,35.0,,Design,2016-07-13,Good
+Employee_v5_458,,sixty-five hundred thousand,Design,2019-01-09,Poor
+Employee_v5_459,,forty thousand,Design,2024-01-08,Poor
+Employee_v5_460,26.0,,Research,2022-04-15,Good
+Employee_v5_461,24.0,,Design,2015-02-27,Good
+Employee_v5_462,36.0,sixty-five hundred thousand,Editorial,2017-01-23,Poor
+Employee_v5_463,37.0,,Design,2016-01-08,Poor
+Employee_v5_464,29.0,4085891,Publishing,2018-12-08,Good
+Employee_v5_465,,7558548,Editorial,2023-04-24,Poor
+Employee_v5_466,,,Publishing,2020-12-10,Poor
+Employee_v5_467,,forty thousand,Design,2022-03-29,Poor
+Employee_v5_468,,4469049,Research,2016-05-16,Good
+Employee_v5_469,40.0,forty thousand,Editorial,2021-07-17,Poor
+Employee_v5_470,,forty thousand,Editorial,2019-03-10,Poor
+Employee_v5_471,36.0,sixty-five hundred thousand,Publishing,2017-06-15,Poor
+Employee_v5_472,40.0,,Design,2015-08-20,Good
+Employee_v5_473,35.0,sixty-five hundred thousand,Editorial,2024-05-16,Poor
+Employee_v5_474,,,Design,2018-09-14,Good
+Employee_v5_475,45.0,sixty-five hundred thousand,Editorial,2017-03-31,Good
+Employee_v5_476,44.0,forty thousand,Design,2023-09-01,Poor
+Employee_v5_477,44.0,6896230,Publishing,2015-06-03,Poor
+Employee_v5_478,38.0,forty thousand,Editorial,2018-07-18,Poor
+Employee_v5_479,,forty thousand,Publishing,2016-03-02,Good
+Employee_v5_480,,,Research,2021-05-18,Good
+Employee_v5_481,,sixty-five hundred thousand,Design,2022-09-14,Good
+Employee_v5_482,,forty thousand,Publishing,2024-01-15,Poor
+Employee_v5_483,,forty thousand,Publishing,2015-05-13,Good
+Employee_v5_484,,sixty-five hundred thousand,Design,2016-07-30,Poor
+Employee_v5_485,,sixty-five hundred thousand,Design,2015-09-06,Poor
+Employee_v5_486,,forty thousand,Editorial,2018-05-28,Good
+Employee_v5_487,,sixty-five hundred thousand,Editorial,2019-11-10,Poor
+Employee_v5_488,24.0,5992554,Research,2022-06-23,Poor
+Employee_v5_489,31.0,5156711,Research,2022-02-01,Good
+Employee_v5_490,,,Research,2023-10-10,Good
+Employee_v5_491,,,Design,2018-03-09,Good
+Employee_v5_492,30.0,7085205,Publishing,2016-08-30,Good
+Employee_v5_493,,sixty-five hundred thousand,Publishing,2022-01-19,Poor
+Employee_v5_494,,8535712,Research,2016-12-30,Good
+Employee_v5_495,,forty thousand,Design,2021-04-23,Poor
+Employee_v5_496,,sixty-five hundred thousand,Research,2018-06-01,Good
+Employee_v5_497,24.0,4399639,Publishing,2021-02-06,Poor
+Employee_v5_498,33.0,,Research,2020-04-12,Good
+Employee_v5_499,41.0,,Editorial,2015-03-22,Poor
+Employee_v5_500,,sixty-five hundred thousand,Research,2017-03-03,Good
